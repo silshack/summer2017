@@ -1,42 +1,70 @@
-name: Professor Jekyll Teaches You to Blog Like a Hacker
-pygments: true
+name: SILShack Summer 2017
 
-baseurl: /professorjekyll
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  
+future: true
 
-python: false
+timezone: America/New_York
+
+# You betcha
+gems:
+  - jemoji
+
+# Categories to exclude from the index
+special-categories: 
+  - "exercise"
+  - "how-to"
+  - "sidebar"
+  - "reading"
+  - "notes"
+  
+# Exclude Jekyll's built-in tests
+exclude: [vendor]
+
+# These can contain uppercase: they'll be lowercased in the URL
+page-order:
+  - syllabus
+  - schedule
+  - assignments
+  - how-to
+  - people
+
+# Same note RE case above
+python-extra-pages:
+  - console
+  
+  
+permalink: none
+  
+baseurl: /spring2016
+url: /spring2016
+
+python: true
 
 course:
-  title: Intro to Hacking
-  number: Jekyll 101
-  instructor: Prof. Jekyll
-  
+  title: Programming for Information Professionals
+  number: INLS 560
+  instructor: Prof. Elliott Hauser
+  semester: Summer 2017
+
 authors:
-  einstein:
-      name: Albert Einstein
+  elliott:
+      name: Elliott Hauser
       prof: true
-      gravatar: 
-      website: http://www.relativity.com
-      github: 
-      twitter:
-      about:  Albert Einstein discovered that E=mc^2.  
-  wittgenstein:
-      name: Ludwig Wittgenstein
-      prof: true
+      gravatar: 0d0d432948d262195358f339768f1240
+      website: http://www.elliotthauser.com
+      github: eah13
+      twitter: hauspoor
+      about:  Elliott Hauser is a PhD Student in information science at UNC Chapel Hill.  He's hacking education as one of the cofounders of Trinket.io.  
+
+  tommytester:
+      name: Tommy the Tester
+      prof: false
       gravatar:
-      website: http://www.tractatus.com
-      github:
-      twitter:
-      about:  Ludwig Wittgenstein discovered that the meaning of E=mc^2 is its use.  
-  mccarthy:
-      name: John McCarthy
-      prof: true
-      website: http://common-lisp.net/
-      about: John McCarthy invented LISP.  Use it.  
-  jdoe:
-      name: John Doe
-      prof: false
-      about: John Doe gets very strange test emails all the time.
-  squw:
-      name: Suzie Q
-      prof: false
-      about: Suzie Q once dated John Fogerty.
+      website: https://www.google.com/search?q=tommy+tester&rlz=1CAACAG_enUS613US613&oq=tommy+tester&aqs=chrome..69i57j0l5.2034j0j7&sourceid=chrome&es_sm=92&ie=UTF-8
+      github: tommytester
+      twitter: tommytester
+      about: "Tommy is our tester account.  We'll use him to scope out how to use github"
