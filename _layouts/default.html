@@ -1,65 +1,150 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width">
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta http-equiv="cache-control" content="max-age=0" />
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="expires" content="0" />
+    <meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!--Ahh, the framework-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/css/foundation.min.css" type="text/css" />
 
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
-        <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico" >
+    <!--Cool Icons? yes please-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    
+    <!-- syntax highlighting CSS -->
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+    <!--<link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico">-->
+
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script> 
+    <!-- <script src="{{ site.baseurl}}/js/date-cs.js" type="text/javascript"></script> -->
+<!--     <script src="{{ site.baseurl}}/js/OTS.js" type="text/javascript"></script>
+    <script src="/spring2014/js/codemirrorepl.js" type="text/javascript"></script>
+    <script src="/spring2014/js/python.js" type="text/javascript"></script>
+    <script src="/spring2014/js/editor.js" type="text/javascript"></script> -->
+
+</head>
+
+<body>
+    <div class="main-content-wrapper">
+    
+    <!--Nav-->
+    <div class="sticky">
+        <nav class="top-bar" data-topbar role="navigation">
+          <ul class="title-area">
+            <li class="name">
+              <h1><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+            </li>
+             <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+            <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+          </ul>
         
-        {% if site.python == true %}
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script> 
-        <script src="http://www.skulpt.org/static/skulpt.min.js" type="text/javascript"></script> 
-        <script src="http://www.skulpt.org/static/skulpt-stdlib.js" type="text/javascript"></script> 
-         
-        <script src="{{ site.baseurl}}/js/skulpt-basic.js" type="text/javascript"></script>
-        {% endif %}
-
-    </head>
-    <body>
-        <!-- Ribbon -->
-        <a href="https://github.com/silshack/professorjekyll"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png" alt="Fork me on GitHub"></a>
+          <section class="top-bar-section">
+            <!-- Right Nav Section -->
+            <ul class="right show-for-large-up">
+              <li><a href="#" class="js-gitter-toggle-chat-button">Chat</a></li>
+              <li><a href="http://github.com/silshack/spring2016"><i class="fa fa-github"></i>&nbsp;Github</a></li>
+            </ul>
         
-        <div class="container">
-          <div class="site">
-            <div class="header">
-              <h1 class="title"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-              <p>
-              <a class="extra" href="{{ site.baseurl }}/syllabus.html">syllabus</a>
-              <a class="extra" href="{{ site.baseurl }}/schedule.html">schedule</a>
-              <a class="extra" href="{{ site.baseurl }}/assignments.html">assignments</a>
-              <a class="extra" href="{{ site.baseurl }}/people.html">people</a>
-              <a class="extra" href="{{ site.baseurl }}/feedback.html">feedback</a>
-              <a class="extra" href="{{ site.baseurl }}/music.html">music</a>
-              {% if site.python == true %}
-              <a class="extra" href="{{ site.baseurl }}/console.html">console</a>
-              {% endif %}
-              </p>
-            </div>
+            <!-- Left Nav Section -->
+            <ul class="left">
+                {% for pagename in site.page-order %}
+                <li><a class="extra" href="{{ site.baseurl }}/{{ pagename | lower }}.html">{{ pagename }}</a></li>
+                {% endfor %} {% if site.python == true %} {% for pagename in site.python-extra-pages %}
+                <li><a class="extra" href="{{ site.baseurl }}/{{ pagename }}.html">{{ pagename }}</a></li>
+                {% endfor %} {% endif %}
+                <li class="show-for-small-only"><a href="#" class="js-gitter-toggle-chat-button">Chat</a></li>
+                <li class="show-for-small-only"><a href="http://github.com/silshack/spring2016"><i class="fa fa-github"></i>&nbsp;Github</a></li>
+            </ul>
+          </section>
+        </nav>
+    </div>
+    
+    {% if page.url == "/savethisforlater.html" %}
+    <!--Don't judge me bro-->
+    <div data-alert class="alert-box warning">
+      Hi!  This site is currently <a href="http://www.textfiles.com/underconstruction/">under revision</a> for Spring 2016.  Feel free to browse it or <a href="http://silshack.github.com/spring2014" style="color: lightblue">One of my previous courses</a> to get a sense of what we'll cover and how I teach. - <a href="http://elliotthauser.com">Elliott</a>
+      <a href="#" class="close">&times;</a>
+    </div>
+    {% endif %}
+    
+    <!--Main content in a small-12-->
+    <div class="row post-row">
+        <div class="small-12 column">
+             {{ content | replace: '<li>[ ]', '<li><input type="checkbox" disabled="disabled">' | replace: '<li>[x]', '<li><input type="checkbox" checked>'  }}
+        </div>
+    </div>
+    
 
-                {{ content }}
 
-            <div class="footer">
-              <div class="contact">
-                <p>
-                  {{ site.course.number }} - "{{ site.course.title }}"
-                </p>
-                <p>
-                  Another <a href="http://github.com/silshack/professorjekyll">silshack</a> by  <a href="http://twitter.com/hauspoor/">@hauspoor</a> & friends<br />
-                </p>
-                <p>
-                  This page was generated on {{ site.time | date: "%x" }} at {{ site.time | date: "%I:%M %p" }}.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div> <!-- /container -->
 
-    </body>
+<footer id="footer" class="footer">
+  <div class="row">
+    <div class="small-12 large-4 columns">
+        <p>
+            {{ site.course.number }} - "{{ site.course.title }}"
+        </p>
+    </div>
+    <div class="small-12 large-4 columns">
+        <p>
+            Another <a href="http://github.com/silshack/professorjekyll">silshack</a> by <a href="http://twitter.com/hauspoor/">@hauspoor</a> & friends
+        </p>
+    </div>
+    <div class="small-12 large-4 columns">
+        <p>
+            This page was generated on
+            <script type="text/javascript">
+                var date = new Date('{{ site.time | date: "%D %T %z" }}');
+                document.write(date.toLocaleDateString() + " " + date.toLocaleTimeString())
+            </script>
+        </p>
+    </div>
+  </div>
+</footer>
+</div>
+<script>
+  ((window.gitter = {}).chat = {}).options = {
+    room: 'silshack/spring2016'
+    , useStyles: true
+    , preload: true
+    , activationElement: false
+  };
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+<script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
+<script src="{{ site.baseurl}}/js/date-cs.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation/foundation.alert.min.js"></script></script>
+<script>
+$(document).foundation();
+$(document).on('close.fndtn.alert', function(event) {
+  console.info('An alert box has been closed!');
+});
+
+window.onload = function stickyFooter() {
+    var footer = '#footer';
+    
+    if ($(footer).offset().top + $(footer).outerHeight() < $(window).height()) {
+        $(footer).css({
+            'bottom' : 0,
+            'left' : 0,
+            'right' : 0,
+            'position' : 'fixed',
+        });
+    } else {
+        $(footer).css('position', 'initial');
+    }
+
+    $(footer).addClass('fade-in')
+}
+</script>
+</body>
 </html>
