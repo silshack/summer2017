@@ -3,8 +3,4 @@ layout: default
 title: Python Console
 ---
 
-<iframe
-      style="width: 640px; height: 480px; border: none;"
-      name="embedded_python_anywhere"
-      src="https://www.pythonanywhere.com/embedded/">
-</iframe>
+<iframe src="https://trinket.io/embed/python3/9bceeabbd8?outputOnly=true&runOption=console&start=result&runMode=console" width="100%" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
