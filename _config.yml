@@ -27,7 +27,6 @@ exclude: [vendor]
 # These can contain uppercase: they'll be lowercased in the URL
 page-order:
   - syllabus
-  - schedule
   - assignments
   - how-to
   - people
@@ -59,12 +58,3 @@ authors:
       github: eah13
       twitter: hauspoor
       about:  Elliott Hauser is a PhD Student in information science at UNC Chapel Hill.  He's hacking education as one of the cofounders of Trinket.io.  
-
-  tommytester:
-      name: Tommy the Tester
-      prof: false
-      gravatar:
-      website: https://www.google.com/search?q=tommy+tester&rlz=1CAACAG_enUS613US613&oq=tommy+tester&aqs=chrome..69i57j0l5.2034j0j7&sourceid=chrome&es_sm=92&ie=UTF-8
-      github: tommytester
-      twitter: tommytester
-      about: "Tommy is our tester account.  We'll use him to scope out how to use github"

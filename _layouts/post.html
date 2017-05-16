@@ -5,9 +5,9 @@ layout: default
 <h2>{{ page.title }}</h2>
 
 <p>
-{% if (page.categories contains "assignment") and (page.author.prof == true) %}
+{% if (page.categories contains "exercise") and (page.author.prof == true)%}
 
-<strong>Due {{ page.date | date: "%x" }} at {{ page.date | date: "%I:%M %p" }} </strong>
+<strong>Due {% if page.categories contains "exercise" %}{% if page.inclass == true %} {{ page.date | date: "%a, %b %d, %Y" }} by midnight{% else %} {{ page.date | date: "%a, %b %d, %Y" }} at Start of Class{% endif %}{% else %} {{ page.date | date: "%a, %b %d, %Y" }} {% endif %} </strong>
 
 {% else %}
 
@@ -31,10 +31,12 @@ by
         {% endif %}
     {% endfor %}
 {% endif %}
+
+<p class="meta">{{ page.date | date_to_string }}</p>
+
 {% endif %}
 </p> <!-- /.byline -->
 
-<p class="meta">{{ page.date | date_to_string }}</p>
 
 <div class="post">
 {{ content }}
