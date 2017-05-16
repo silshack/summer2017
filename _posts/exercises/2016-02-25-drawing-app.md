@@ -5,6 +5,7 @@ author:
 categories: 
 - exercise
 title: "Drawing App Project"
+published: false
 ---
 
 This is the first major development project we'll complete together. It is designed

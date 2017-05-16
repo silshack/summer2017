@@ -5,6 +5,7 @@ author:
 categories: 
 - exercise
 title: "Game Milestones (+ Optional Starter Code)"
+published: false
 ---
 
 Submit a well-formatted pull request with a post containing your starter code

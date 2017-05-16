@@ -5,6 +5,7 @@ author:
 categories: 
 - exercise
 title: "Drawing Milestones & Starter Code"
+published: false
 ---
 
 Submit a well-formatted pull request with a post containing your project milestones and, if you have time, some starter code.

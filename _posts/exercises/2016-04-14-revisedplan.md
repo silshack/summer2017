@@ -4,7 +4,7 @@ author: elliott
 categories:
   - exercise
 title: "Revised Project Plan"
-published: true
+published: false
 inclass: true
 ---
 

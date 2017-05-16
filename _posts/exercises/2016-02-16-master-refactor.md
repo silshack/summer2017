@@ -4,6 +4,7 @@ author: elliott
 categories:
   - exercise
 title: Refactoring Tetris Turtles
+published: false
 ---
 
 Submit a well-formatted pull request to our class blog with embedded Trinket programs for the below exercises.

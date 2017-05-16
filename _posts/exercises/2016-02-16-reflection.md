@@ -3,6 +3,7 @@ layout: post
 author: elliott
 title: "Mid-semester reflection"
 category: exercise
+published: false
 ---
 
 We've come a long way in a short time!  This exercise is to help you take stock

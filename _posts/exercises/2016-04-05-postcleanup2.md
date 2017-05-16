@@ -5,6 +5,7 @@ categories:
   - exercise
 title: "Clean up your posts for review"
 inclass: false
+published: false
 ---
 
 Go through all of your posts from the year and fix anything that needs fixing.  Common errors I've seen:

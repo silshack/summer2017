@@ -4,7 +4,7 @@ author: elliott
 categories:
   - exercise
 title: Meetup Writeups
-published: true
+published: false
 ---
 
 Submit one or two pull requests with writeups of your cultural immersion meetup experience.
