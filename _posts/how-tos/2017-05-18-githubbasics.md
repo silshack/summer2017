@@ -23,7 +23,7 @@ ___
 We're going to help Tommy the Tester create his first post.
 
 * Create Github account
-* Go to [http://github.com/silshack/spring2016]
+* Go to [http://github.com/silshack/summer2017]
 * Create a new post with the filename `_posts/<yourname>/2015-01-12-<yourname>-first-post.md` **Remember the importance of careful typing**
 * Add this to the top of it:
 

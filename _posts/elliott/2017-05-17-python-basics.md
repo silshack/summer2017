@@ -20,7 +20,7 @@ Read the syllabus and feel free to [email me](eah13@email.unc.edu) with any ques
 
 * You will make games and command line scripts with Python
 * You will submit and merge pull requests on github (an important professional skill!)
-* You will use several languages besides Python including YAML, Markdown, HTML and Bash
+* You will use several languages besides Python including YAML, Markdown, and HTML
 * You will feel confident and be effective a learning new things
 * You will learn problem solving strategies and attitudes that will serve you well in any career
 

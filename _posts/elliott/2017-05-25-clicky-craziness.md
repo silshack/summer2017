@@ -8,7 +8,7 @@ published: false
 # Q & A
 
 * What the heck happened with our site?  A [jekyll upgrade](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0)
-* Where are the exercises if this ever happens again? [_posts/exercises](https://github.com/silshack/spring2016/tree/gh-pages/_posts/exercises) 
+* Where are the exercises if this ever happens again? [_posts/exercises](https://github.com/silshack/summer2017/tree/gh-pages/_posts/exercises) 
 (they're posts just like you make but with some extra custom stuff)
 * Turtle **state**
 * What's the deal with `return`?
