@@ -2,6 +2,7 @@
 layout: post
 title: "git cheatsheet"
 category: how-to
+published: false
 ---
 
 # git clone

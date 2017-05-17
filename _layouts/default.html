@@ -51,7 +51,7 @@
             <!-- Right Nav Section -->
             <ul class="right show-for-large-up">
               <li><a href="#" class="js-gitter-toggle-chat-button">Chat</a></li>
-              <li><a href="http://github.com/silshack/spring2016"><i class="fa fa-github"></i>&nbsp;Github</a></li>
+              <li><a href="http://github.com/silshack/summer2017"><i class="fa fa-github"></i>&nbsp;Github</a></li>
             </ul>
         
             <!-- Left Nav Section -->
@@ -62,16 +62,15 @@
                 <li><a class="extra" href="{{ site.baseurl }}/{{ pagename }}.html">{{ pagename }}</a></li>
                 {% endfor %} {% endif %}
                 <li class="show-for-small-only"><a href="#" class="js-gitter-toggle-chat-button">Chat</a></li>
-                <li class="show-for-small-only"><a href="http://github.com/silshack/spring2016"><i class="fa fa-github"></i>&nbsp;Github</a></li>
+                <li class="show-for-small-only"><a href="http://github.com/silshack/summer2017"><i class="fa fa-github"></i>&nbsp;Github</a></li>
             </ul>
           </section>
         </nav>
     </div>
     
-    {% if page.url != "/savethisforlater.html" %}
-    <!--Don't judge me bro-->
+    {% if page.url == "/savethisforlater.html" %}
     <div data-alert class="alert-box warning">
-      Hi!  This site is currently <a href="http://www.textfiles.com/underconstruction/">under revision</a> for Summer 2017.  Feel free to browse it or <a href="http://silshack.github.com/spring2016" style="color: lightblue">One of my previous courses</a> to get a sense of what we'll cover and how I teach. - <a href="http://elliotthauser.com">Elliott</a>
+      Hi!  This site is currently <a href="http://www.textfiles.com/underconstruction/">under revision</a> for Summer 2017.  Feel free to browse it or <a href="http://silshack.github.io/spring2016" style="color: lightblue">One of my previous courses</a> to get a sense of what we'll cover and how I teach. - <a href="http://elliotthauser.com">Elliott</a>
       <a href="#" class="close">&times;</a>
     </div>
     {% endif %}
