@@ -1,11 +1,11 @@
 SILShack, Spring 2016
 
-![](https://travis-ci.org/silshack/spring2016.svg)
+![](https://travis-ci.org/silshack/summer2017.svg)
 
 This is the source code for the collaboratively edited blog/site for the Spring 2016 session of UNC INLS 560, Programming for Information Professionals.
 
 ### To Students in the Class
-As the course goes on, you'll learn how to use git and Github to help make this site better and add your voice.  To start, check out the [site itself](http://silshack.github.com/spring2016).
+As the course goes on, you'll learn how to use git and Github to help make this site better and add your voice.  To start, check out the [site itself](http://silshack.github.io/summer2017).
 
 ### To Interested Others
 This site is built off of [Professor Jekyll](http://github.com/silshack/professorjekyll), a collaborative course blog with support for multiple authors based on [Jekyll](http://jekyllrb.com).  The site is hosted by [Github Pages](http://pages.github.com).
