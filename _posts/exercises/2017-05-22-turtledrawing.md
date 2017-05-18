@@ -5,7 +5,7 @@ title: Turtle Drawing!
 categories: exercise
 ---
 
-Make the coolest Turtle program you can and [post it to our blog](/summer2017/exercise/how-to/turtlepost.html).  
+Make the coolest Turtle program you can and **during class** we'll [post it to our blog](/summer2017/exercise/how-to/turtlepost.html).  
 
 ## Turtlehacking
 
