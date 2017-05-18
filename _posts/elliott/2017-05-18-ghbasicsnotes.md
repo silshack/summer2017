@@ -6,51 +6,59 @@ categories:
   - notes
 ---
 
-<!--
-## Welcome Survey
+# So Many Feels
 
-Thanks for answering this!  Here are a sampling of annonymous responses.  While everyone had a 
-slightly different take, there were lots of similarities I saw.  You're not alone!
+Thanks for sharing your feelings about this class and a little more about yourselves!  Look around: no matter what you wrote, someone else wrote something similar.
 
+## Excitement
 
-What excites you about code or learning to code?
+* "It's a completely new field for me and way outside of my comfort zone."
+* "I really like those "Aha" moments you get when you finally discover the answer to your issue or where your error/mistake was."
+* "The thrill of finally getting the thing to work."
+* "Gaining confidence to take on new projects at work/learn problem solving skills"
+* "I would like to learn how to think differently about problems."
+* "I guess that it is a skill that if we don't learn how to, then it might set us back in the future."
 
-* "When my code finally works."
-* "I'm actually really excited for the supposedly boring stuff, like cleaning data."
-* "I love puzzles and coding, to me, is like a puzzle."
+## Apprehension
 
-Do you have any apprehensions about code or learning to code?
+* "I'm afraid that I will fall behind and be unable to catch up."
+* "Just that it will be difficult, but I am confident I can succeed with repetition and practice."
+* "I'm terrible at remembering the details of syntax!"
+* "Haven't always had great instructors"
+* "It just seems very dauting to start."
+* "I have no apprehensions."
+* "Worried about being overwhelmed with new concepts or when looking at lots of code"
+* "I'm worried about the time commitment"
 
-* "I sometimes feel frustrated when I get lost in errors...and when I do not even know where to find the clues to debug"
-* "My first experience in a programming class wasn't that great."
-* "I'm a humanities person through and through, so it will be interesting to see if my brain works this way."
-* "I've heard that the assignments for this class take MUCH longer than you expect them too - so I'm a little apprehensive about the workload! But mostly excited."
-* "Sometimes I don't feel like I think like a programmer. I'm not sure how to methodically think and plan a program. I tend to dive in and get frustrated at my inability to fix something."
+## Background
 
+* "I bought a book that I never read."
+* "I've begun a few times in the past to try to teach myself coding, but every time I would get beyond the introductory stages and stop."
+* "I've done web design in the past."
+* "I've tinkered with CodeAcademy to work on learning Ruby but didn't complete it."
+* "I haven't tried coding in python, but I am currently learning html and CSS."
+* "A tiny bit of work with turtle and Python in High School."
+* "Pretty much nothing?"
+* "I've taken an intro to python class, a java class, and another java intro class."
 
-What, if anything, have you done to learn to code in the past?
+## Goals
 
-* "I have taken a few classes here at UNC that involve coding, and I've started a few classes on CodeAcademy. Exercises really help since it gives me hands-on experience."
-* "I've done some HTML, CSS, and MySQL.  I learned a little bit of Java, but there wasn't a lot of hands on-I got lost easily and struggled. "
-* "I can do basic HTML, if that counts at all."
-* "I took a class in C++. It focused more on concepts and less exercise. For someone that has completely no coding experience before, it was too hard for me to grasp."
+* "Learn the building blocks for programming and think like a coder.  I want to acquire the tools that I need to learn other coding languages."
+* "I would like to get to a level where I am comfortable with Python, and use skills in this class to improve my other coding abilities."
+* "Feel confident with another language."
+* "My main goal would be to not get lost in the thick of all of the code that we do and to be able to understand it well enough to troubleshoot on my own."
+* "I want to put "knows python" on my resume and feel confident about it."
+* "I want to learn about coding data visualizations and learn about useful code for digital archives."
+* "I'm taking this class to have a solid foundation surrounding reading and writing code.  I think this will help me be more effective in my current position."
+* "To learn the mindset of a coder / programmer."
+* "Survive!"
 
-What are your goals for this class?
+Thanks a ton for these great answers!  No matter where you're coming from, I'll do everything I can to help you acheive your goals.  
 
-* "I want to learn Python and its application in data analysis."
-* "To learn how to code in python and create a cool game at the end of the semester."
-* "Know the foundation of programming so I can learn and pick up things later by myself. "
-* "To be a better and more confident coder."
-* "My goal is to become comfortable working with Python."
-* "To be able communicate intelligently with programmers"
+For those of you who are not very confident: remember, confidence is a state of mind!  For those of you who are very confident: remember, confidence can make you blind to learning opportunities!  
 
+Let's meet in the middle: Medium Confident (tm).
 
-## Schedule Addition
-
-I've added an extra credit hack project for over spring break for those of you who have goals of using 
-Python in a specific program or framework.  More soon, but know I'm listening!
-
--->
 
 # Today's Class
 

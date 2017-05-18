@@ -23,9 +23,10 @@ ___
 We're going to help Tommy the Tester create his first post.
 
 * Create Github account
-* Go to [http://github.com/silshack/summer2017]
-* Create a new post with the filename `_posts/<yourname>/2015-01-12-<yourname>-first-post.md` **Remember the importance of careful typing**
-* Add this to the top of it:
+* Go to [http://github.com/silshack/summer2017](http://github.com/silshack/summer2017)
+* Click 'Create New File'
+* This new file will become your post.  Give it the filename `_posts/<yourname>/2015-01-12-<yourname>-first-post.md` **Remember the importance of careful typing**
+* Add this to the top of the file's text content:
 
 ```
 --- 
@@ -37,9 +38,10 @@ title: "Yourname's first post!"
 
 **Remember, every character matters to a computer.**
 
-* Then, underneath, write a bit about yourself.
-* Write a commit message at the bottom of the github page describing what you did, like "Added Tommy's first post"
+* Then, underneath that header, write a bit about yourself.
+* Write a commit message in the first text box under the "Commit New File" heading at the bottom of the github page describing what you did, like "Added Tommy's first post".  You can leave the second text input box there blank.
 * Look good? Create Pull Request.  Or edit again if something's wrong.
+* Your commit will now show up on your Pull Request and automated tests will begin to run.
 * :+1: :sunglasses: :fire:
 
 
