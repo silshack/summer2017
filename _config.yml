@@ -4,7 +4,7 @@ highlighter: rouge
 markdown: kramdown
 kramdown:
   input: GFM
-  
+
 future: true
 
 timezone: America/New_York
@@ -14,13 +14,13 @@ gems:
   - jemoji
 
 # Categories to exclude from the index
-special-categories: 
+special-categories:
   - "exercise"
   - "how-to"
   - "sidebar"
   - "reading"
   - "notes"
-  
+
 # Exclude Jekyll's built-in tests
 exclude: [vendor]
 
@@ -34,10 +34,10 @@ page-order:
 # Same note RE case above
 python-extra-pages:
   - console
-  
-  
+
+
 permalink: none
-  
+
 baseurl: /summer2017
 url: /summer2017
 
@@ -51,10 +51,199 @@ course:
 
 authors:
   elliott:
-      name: Elliott Hauser
-      prof: true
-      gravatar: 0d0d432948d262195358f339768f1240
-      website: http://www.elliotthauser.com
-      github: eah13
-      twitter: hauspoor
-      about:  Elliott Hauser is a PhD Student in information science at UNC Chapel Hill.  He's hacking education as one of the cofounders of Trinket.io.  
+    name: Elliott Hauser
+    prof: true
+    gravatar: 0d0d432948d262195358f339768f1240
+    website: http://www.elliotthauser.com
+    github: eah13
+    twitter: hauspoor
+    about:  Elliott Hauser is a PhD Student in information science at UNC Chapel Hill.  He's hacking education as one of the cofounders of Trinket.io.
+
+  tommytester:
+    name: Tommy Tester
+    prof: false
+    gravatar:
+    website:
+    github: tommytester
+    twitter:
+    about: "Here's a little about tommytester"
+
+  abaker8:
+    name: abaker8
+    prof: false
+    gravatar:
+    website:
+    github: abaker8
+    twitter:
+    about: "Here's a little about abaker8"
+
+  alexreher:
+    name: alexreher
+    prof: false
+    gravatar:
+    website:
+    github: alexreher
+    twitter:
+    about: "Here's a little about alexreher"
+
+  anusha-suresh:
+    name: anusha-suresh
+    prof: false
+    gravatar:
+    website:
+    github: anusha-suresh
+    twitter:
+    about: "Here's a little about anusha-suresh"
+
+  brianpugsley:
+    name: brianpugsley
+    prof: false
+    gravatar:
+    website:
+    github: brianpugsley
+    twitter:
+    about: "Here's a little about brianpugsley"
+
+  businessowl:
+    name: businessowl
+    prof: false
+    gravatar:
+    website:
+    github: businessowl
+    twitter:
+    about: "Here's a little about businessowl"
+
+  chall12:
+    name: chall12
+    prof: false
+    gravatar:
+    website:
+    github: chall12
+    twitter:
+    about: "Here's a little about chall12"
+
+  chausuble:
+    name: chausuble
+    prof: false
+    gravatar:
+    website:
+    github: chausuble
+    twitter:
+    about: "Here's a little about chausuble"
+
+  grassycheetah94:
+    name: grassycheetah94
+    prof: false
+    gravatar:
+    website:
+    github: grassycheetah94
+    twitter:
+    about: "Here's a little about grassycheetah94"
+
+  Ibbi2010:
+    name: Ibbi2010
+    prof: false
+    gravatar:
+    website:
+    github: Ibbi2010
+    twitter:
+    about: "Here's a little about Ibbi2010"
+
+  jbfelder:
+    name: jbfelder
+    prof: false
+    gravatar:
+    website:
+    github: jbfelder
+    twitter:
+    about: "Here's a little about jbfelder"
+
+  jmo560:
+    name: jmo560
+    prof: false
+    gravatar:
+    website:
+    github: jmo560
+    twitter:
+    about: "Here's a little about jmo560"
+
+  jpanken:
+    name: jpanken
+    prof: false
+    gravatar:
+    website:
+    github: jpanken
+    twitter:
+    about: "Here's a little about jpanken"
+
+  kmorbitzer:
+    name: kmorbitzer
+    prof: false
+    gravatar:
+    website:
+    github: kmorbitzer
+    twitter:
+    about: "Here's a little about kmorbitzer"
+
+  lisetted:
+    name: lisetted
+    prof: false
+    gravatar:
+    website:
+    github: lisetted
+    twitter:
+    about: "Here's a little about lisetted"
+
+  neatoskeeto:
+    name: neatoskeeto
+    prof: false
+    gravatar:
+    website:
+    github: neatoskeeto
+    twitter:
+    about: "Here's a little about neatoskeeto"
+
+  nurahill:
+    name: nurahill
+    prof: false
+    gravatar:
+    website:
+    github: nurahill
+    twitter:
+    about: "Here's a little about nurahill"
+
+  nvola:
+    name: nvola
+    prof: false
+    gravatar:
+    website:
+    github: nvola
+    twitter:
+    about: "Here's a little about nvola"
+
+  samsr31:
+    name: samsr31
+    prof: false
+    gravatar:
+    website:
+    github: samsr31
+    twitter:
+    about: "Here's a little about samsr31"
+
+  WildGinger23:
+    name: WildGinger23
+    prof: false
+    gravatar:
+    website:
+    github: WildGinger23
+    twitter:
+    about: "Here's a little about WildGinger23"
+
+  zman7895:
+    name: zman7895
+    prof: false
+    gravatar:
+    website:
+    github: zman7895
+    twitter:
+    about: "Here's a little about zman7895"
