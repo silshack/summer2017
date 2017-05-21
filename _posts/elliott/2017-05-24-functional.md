@@ -5,15 +5,6 @@ title: "Let's get functional"
 category: notes
 ---
 
-# Q&A
-
-* Changing embed sizes
-* Full Screen Mode
-* Highlight + tab or shift-tab
-* Python 2, 3 & Trinket
-* Anything else?
-* Lateness & the Late label.  Help me out & tag your own stuff as late when it's late.
-
 
 # Looking ahead
 
@@ -29,8 +20,6 @@ in your code.
 
 Conditionally defining a function (probably a bad idea):
 <iframe src="https://trinket.io/embed/python/1024e17c6f" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
-Who wants to help fix this and test out a new Trinket feature??
 
 <!--
 # What are functions for?
@@ -58,3 +47,7 @@ I never really got **parameter** vs **argument** until late in my career.  Now y
 * Group up
 * Circle up
 
+
+# Homework: Treasure Hunt Turtles
+
+Check it out on the assignments page.  **Use your resources**

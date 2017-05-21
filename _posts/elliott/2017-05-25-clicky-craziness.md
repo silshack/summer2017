@@ -2,14 +2,11 @@
 layout: post
 author: elliott
 category: notes
-published: false
+title: "Treasure Turtles and Clicky Craziness"
 ---
 
 # Q & A
 
-* What the heck happened with our site?  A [jekyll upgrade](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0)
-* Where are the exercises if this ever happens again? [_posts/exercises](https://github.com/silshack/summer2017/tree/gh-pages/_posts/exercises) 
-(they're posts just like you make but with some extra custom stuff)
 * Turtle **state**
 * What's the deal with `return`?
 * Where do **variables** exist?
@@ -19,11 +16,33 @@ link for more info on **return values** and **scope**.  I'll now demonstrate the
 
 <iframe src="https://trinket.io/embed/python/43e4877530" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-# Pair Up & then Circle Up!
 
-We're going to quickly [pair]({{ site.baseurl }}/pairup.html), discuss and merge your posts, then you'll introduce your partner's work
-to the class.  Your partner can then discuss their program for us.
+# Questions & Answers
 
-# Thursday
+* Should you commit to the gh-pages branch?
+* Should you merge your own pull requests?
+* When do the magical 'Fixed #XXX' words work?
+
+
+# Peer Code Review
+
+This is where those of you who have been commenting, reflecting, and pull request titling will
+win friends because of it.  And if the purpose for and audience of these hasn't quite sunk in yet, reading
+other people's code is the best way for it to.
+
+Pair up:
+<iframe src="https://trinket.io/embed/python/58d9ff2b43" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+
+* Review & merge your partner's PR (opening issues if there are any)
+* View their live post on the site (merge any PRs they need to do to get the post to display)
+* Fill out the [Turtle Peer Review](https://docs.google.com/forms/d/1Aypxuw5S-z8tYizuAzdjFD9ws5NHRKE4sKZCqU6JiUk/viewform) form.]
+* Submit
+* Discuss with your partner
+* Group up & compare notes.  Show off the partner you reviewed's code to the group
+* What did you you learn?
+* Show off a partner's work in front of class
+
+# Next Time
 
 Chapter 5 reading & exercises.  We'll *finally* go over loops!  Woot.
