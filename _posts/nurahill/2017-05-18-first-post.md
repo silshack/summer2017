@@ -1,7 +1,7 @@
 --- 
 layout: post
-author: <yourgithubname>
-title: "Yourname's first post!"
+author: <nurahill>
+title: "Nura's first post!"
 ---
 
 My first post!
