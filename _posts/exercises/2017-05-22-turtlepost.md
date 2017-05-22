@@ -12,8 +12,8 @@ Use the instructions below to submit a post with your Turtlehack embedded into i
 
 ### Sharing your work
 
-Programmers often need or want to share their work with others.  We're going to do that by making a 
-jekyll post with our code, a screenshot of our picture, and any thoughts or reflections we have on 
+Programmers often need or want to share their work with others.  We're going to do that by making a
+jekyll post with our code, a screenshot of our picture, and any thoughts or reflections we have on
 the experience.
 
 First you need a header:
@@ -23,7 +23,6 @@ First you need a header:
 layout: post
 author: tommytester
 title: Tommy's Turtle Exercise
-published: false
 ---
 </pre>
 
@@ -38,7 +37,6 @@ Then, paste the code into the text of your post.  At this point your post will l
 layout: post
 author: tommytester
 title: Tommy's Turtle Exercise
-published: false
 ---
 
 Here's the program I'm embedding:
@@ -54,7 +52,7 @@ If you want to display code that's not interactive (to talk about something you 
 <pre>
 ```
 # Look what I did here:
-tess = turtle.Turtle() 
+tess = turtle.Turtle()
 tess.color("blue")
 tess.pensize(3)
 tess.forward(50)
@@ -67,7 +65,7 @@ Here's that code rendered by Jekyll:
 
 ```
 # Look what I did here:
-tess = turtle.Turtle() 
+tess = turtle.Turtle()
 tess.color("blue")
 tess.pensize(3)
 tess.forward(50)
@@ -91,13 +89,13 @@ That code looks like this:
 
 ### Thoughts about the exercise
 
-When submitting exercises, it's always awesomer to include reflections, roadblocks you ran into, or 
-things you thought were cool. Always include links to example code if you use or are heavily influnced 
-by someone else's work. They don't have to be long, but the best ones give me a sense of what you did 
+When submitting exercises, it's always awesomer to include reflections, roadblocks you ran into, or
+things you thought were cool. Always include links to example code if you use or are heavily influnced
+by someone else's work. They don't have to be long, but the best ones give me a sense of what you did
 and why.  Here's a post from last class that does a good job of this: [Sarah's post from Fall 2013](http://silshack.github.io/fall2013/post/2013/09/09/Sophie.html)
 
 ### Going deeper
 
-Think the above is easy?  Try your hand at writing and calling **functions**. We'll get to these 
-later but an example from our very own Grant McLendon might help inspire you:  
+Think the above is easy?  Try your hand at writing and calling **functions**. We'll get to these
+later but an example from our very own Grant McLendon might help inspire you:
 [Grant's Turtle post form Fall 2013](http://silshack.github.io/fall2013/gmclendon/2013/09/09/grants-turtle.html)

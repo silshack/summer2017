@@ -8,7 +8,7 @@ title: Treasure Hunt Turtles Exercise
 
 Submit a well-formatted pull request to our class blog with embedded Trinket programs for the below exercises.
 Complete these on your own, using any materials you need. Do not
-look at other students' submissions until after you've completed your work.  
+look at other students' submissions until after you've completed your work.
 
 **After your programs are done**, check other students' work and other resources online if you had questions.
 Include a reflection about what you think you've learned and any concepts that are still fuzzy to you.
@@ -16,10 +16,11 @@ Did you encounter frustrating situations? Did you feel a lightbulb turn on?
 
 ___
 
-Create a program that 
+Create a program that
 
 * Creates a hidden treasure at a random location
-* Asks the user for X and Y coordinates (and handles bad input) 
+* Asks the user for X and Y coordinates (and handles bad input) OR...
+  * For an extra challenge, accepts click events
 * Sends a turtle to those coordinates
 * Gives the user feedback on how close they are to the treasure (e.g. changes the turtle's Color, changes the Screen's background color,
 writes a message to the screen)
@@ -44,6 +45,12 @@ getting it out of the way.
 # Get Creative!
 
 As our first **game sketch**, this assignment offers lots of opportunity to get creative.
-Make sure to pace yourself and run your code often if you're experiementing. You can 
+Make sure to pace yourself and run your code often if you're experiementing. You can
 **Duplicate/Make a Copy** of your code on Trinket if you want to experiment without
 worrying about breaking your assignment.
+
+Done with the main assignment early? sSome areas to challenge yourself:
+
+* Get creative with your success animation
+* Give the user feedback that they've found the treasure by making a special turtle visible when they find it
+* (Advanced) Implement 'Mines' in your game, which are like treasure except they display a 'You Lost' animation when the user hits them.

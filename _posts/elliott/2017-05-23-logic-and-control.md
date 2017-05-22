@@ -5,6 +5,11 @@ title: "Logic and the flow of Control"
 author: elliott
 ---
 
+# Q&A
+
+* Community engagement - Get started now!
+* Open Source contributions - now Extra Credit
+
 # TurtleHacks
 
 <!--
@@ -91,6 +96,6 @@ Basic `if` statements act as 'gates' to control whether blocks of code get execu
 * Problem Solving attitudes and strategies
 
 
-# Functions & Refactoring for Thurs
+# Functions & Refactoring for Next time
 
 Read up on functions and then use the power of custom functions to make your previous code more concise!

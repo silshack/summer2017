@@ -21,7 +21,7 @@ link for more info on **return values** and **scope**.  I'll now demonstrate the
 
 * Should you commit to the gh-pages branch?
 * Should you merge your own pull requests?
-* When do the magical 'Fixed #XXX' words work?
+* When do the magical 'Fixed #XXX' or 'Fixes XXX' words work?
 
 
 # Peer Code Review
@@ -45,4 +45,15 @@ Pair up:
 
 # Next Time
 
-Chapter 5 reading & exercises.  We'll *finally* go over loops!  Woot.
+Lots of work over the break!  Pace yourself.  Start early.  We've got to keep going so we don't fall behind.
+
+* Chapter 5 reading & exercises.  We'll *finally* go over loops!  Woot.
+* Chapter 6 reading & exercises.  **Strings** aka text.  Super fun.
+* Chapter 8 reading & exercises.  Loops
+* Recommended: Automate the Boring Stuff Lists and loops.
+
+Why cram all these together?  Well, they're related.  Loops are loops **over** a list.  The familiar `range(4)` produces a list.  `for i in range(4)` produces the list `[0,1,2,3]`, assign each of them to `i` and completes the code in the for block.
+
+Strings are just lists of characters, with additional methods (like `.format()` and `.contains()`) built in for our convenience.
+
+So, it's a lot of material, but doing it over a long weekend should help it all sink in.

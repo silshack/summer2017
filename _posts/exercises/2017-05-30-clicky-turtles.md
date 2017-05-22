@@ -8,7 +8,7 @@ title: Clicky Turtles Exercise
 
 Submit a well-formatted pull request to our class blog with embedded Trinket programs for the below exercises.
 Complete these on your own, using any materials you need. Do not
-look at other students' submissions until after you've completed your work.  
+look at other students' submissions until after you've completed your work.
 
 **After your programs are done**, check other students' work and other resources online if you had questions.
 Include a reflection about what you think you've learned and any concepts that are still fuzzy to you.
@@ -17,10 +17,10 @@ Did you encounter frustrating situations? Did you feel a lightbulb turn on?
 ___
 
 This is another open-ended turtlehack, but now you've got lots of tools in your
-toolkit.  Take the weekend and, instead of watching that dumb Super Bowl, code
-an awesome program.  Don't forget your Problem Solving Attitudes and Strategies!
+toolkit.  Take the weekend code an awesome program.  Don't forget your Problem
+Solving Attitudes and Strategies!
 
-Write a turtle program that:  
+Write a turtle program that:
 
 * Has a `setup()` function that sets up your screen visually. For instance, you could
 draw green grass and blue sky using the `.fill()` method. I've created a second
@@ -28,15 +28,16 @@ draw green grass and blue sky using the `.fill()` method. I've created a second
 * Within clicky, do something cool.  Think outside the `.goto(x, y)` box :)
 * Within clicky, **call** one or more helper functions you've created
 * Within clicky or helper functions, use logic to change your program's behavior
-based on the turtle's x and/or y coordinates.  For instance, you could vary the 
+based on the turtle's x and/or y coordinates.  For instance, you could vary the
 turtle's color, speed, or call different helper functions.
+* Uses lists, loops, and string methods
 * Does one of the following:
   * Allows the user to make something creative interactively
   * Has a 'win' condition.  Make sure to give instructions!
   * Implements a narrative animation.  `import time`, `time.sleep(x)` and `tina.clear()`
 will be useful if you pick this one.
 
-If you'd like to stretch yourself, try these:  
+If you'd like to stretch yourself, try these:
 
 * Add other functions to `animations.py`, import them and use them in your main
 program.
