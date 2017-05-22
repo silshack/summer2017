@@ -1,7 +1,6 @@
 ---
 author: elliott
 category: notes
-published: false
 title: "Pair programming a poetry slam!"
 ---
 
@@ -23,7 +22,7 @@ funtionality milestones.  Great idea!
 * `Ctrl-/` is your friend
 * If you use something from StackExchange, it's your responsibility to know how it works.
 * While True, continue and break
- 
+
 <iframe src="https://trinket.io/embed/python/44b5d714de" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 * what `try`/`except` does to your program
@@ -43,7 +42,7 @@ funtionality milestones.  Great idea!
 
 * Communication is key!  Think out loud.  Work your partner into your thought process.
 * Pair programming may feel slower.  That's natural.  Slow down and buy in to get the benefits.
-* The Navigator can't get anywhere without the driver.  
+* The Navigator can't get anywhere without the driver.
 * The Driver doesn't know where to go without the navigator.
 * Tell your partner what you need from them.  Ask them for it!
 

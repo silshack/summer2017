@@ -2,16 +2,16 @@
 layout: default
 title: "Assignments"
 ---
- 
-## {{ site.course.number }} Assignments 
 
-Assignments will be added below.  Readings should be done by the beginning of class.  Exercises should 
+## {{ site.course.number }} Assignments
+
+Assignments will be added below.  Readings should be done by the beginning of class.  Exercises should
 be completed by the date and time listed.  Class notes are for your reference of if you have to miss a class.
 
 {% comment %} Jekyll 2.4 doesn't support the concat filter so we hack it with push {% endcomment %}
 
 
- 
+
 {% comment %} Get exercises and inclass exercises {% endcomment %}
 {% assign exercises = "" | split: "" %}
 {% assign inclassexercises = "" | split: "" %}
@@ -44,14 +44,14 @@ be completed by the date and time listed.  Class notes are for your reference of
     {% assign class_dates = class_dates | unshift: note.date %}
 {% endfor %}
 {% for date in class_dates %}
+    {% for reading in readings %}
+      {% if reading.date  == date %}
+          {% assign assignments = assignments | push: reading %}
+      {% endif %}
+    {% endfor %}
     {% for exercise in exercises %}
       {% if exercise.date  == date %}
       {% assign assignments = assignments | push: exercise %}
-      {% endif %}
-    {% endfor %}
-        {% for reading in readings %}
-      {% if reading.date  == date %}
-          {% assign assignments = assignments | push: reading %}
       {% endif %}
     {% endfor %}
     {% for note in notes %}
@@ -70,11 +70,11 @@ be completed by the date and time listed.  Class notes are for your reference of
 {% assign all_assignments = assignments  %}
 
 <table>
-  
+
     <th>Type</th>
     <th>Title</th>
     <th>Due Date</th>
-  
+
 {% for post in all_assignments  %}
     <tr>
         <td>
@@ -90,7 +90,7 @@ be completed by the date and time listed.  Class notes are for your reference of
         </td>
         <td>
             {% if post.link %}
-                {% assign link = post.link %} 
+                {% assign link = post.link %}
             {% else %}
                 {% capture link %}
                     {{ site.baseurl }}{{ post.url }}{% endcapture %}
@@ -104,6 +104,6 @@ be completed by the date and time listed.  Class notes are for your reference of
             {% endif %}
         </td>
     </tr>
- 
+
 {% endfor %}
 </table>

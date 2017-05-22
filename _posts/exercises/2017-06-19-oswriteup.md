@@ -3,8 +3,7 @@ layout: post
 author: elliott
 categories:
   - exercise
-title: Open Source Contribution Writeup
-published: false
+title: "Extra Credit: Open Source Contribution Writeup"
 ---
 
 Submit a pull request detailing your open source contribution, with a link to the work.
