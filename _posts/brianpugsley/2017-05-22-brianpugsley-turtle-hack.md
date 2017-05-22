@@ -5,7 +5,7 @@ title: "Brian's Turtle Hack"
 ---
 
 Here is my turtle hack:
-  <iframe src="https://trinket.io/embed/python/e9176b0be5" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+  <iframe src="https://trinket.io/embed/python/e9176b0be5" width="400" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
   
 
 
