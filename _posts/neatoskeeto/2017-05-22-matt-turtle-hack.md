@@ -1,8 +1,7 @@
 --- 
 layout: post
 author: neatoskeeto
-title: "Matt Zimo's Turtle Hack"
-published: false
+title: "Matt Zimo's TurtleHack"
 ---
 
 
@@ -14,4 +13,25 @@ I used guess and check to make the eyes look like they are in the right place. I
 Later, I tried to make the pen larger, and I realized that looked much better, so I erased the stamps and just made lines of increasing width.
 I wasn't sure how the tears were oriented, that is, if they are going perfectly straight down or not. I can't tell, and I would like to make it so that they face straight down. I'm sure there's an easy way to do that.
 I would also like to make it look like he's behind a prison door, instead of the bars floating in nothing. 
-I did the tears at the end because I thought it was a nice surprise ending.
+I did the tears at the end because I thought it was a nice exclamation point ending.
+Lastly, I found the hexcode for the color emerald to make the word "Oz" that color. Emerald City is the nickname for the experimental prison unit the show takes place in.
+
+Here I am adding the tear code to see how it looks.
+```
+# blood teardrop on the Z
+tina.goto(75,-53)
+tina.color("red")
+tina.pendown()
+tina.pensize(2)
+tina.forward(3)
+tina.pensize(3)
+tina.forward(3)
+tina.pensize(5)
+tina.forward(2)
+tina.pensize(6)
+tina.forward(3)
+tina.pensize(8)
+tina.forward(3)
+tina.pensize(10)
+tina.forward(3)
+```
