@@ -1,0 +1,10 @@
+---
+layout: post
+author: anusha-suresh
+title: "Anusha's Turtle Hack"
+---
+Here is my turtle hack code:
+  <iframe src="https://trinket.io/embed/python/c12c32483c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+  
+Reflection:
+  This activity was tough for me. The first thing I ran into was that I wasn't sure what to make, so I set out with a house, but I wasn't happy with the way things were working out. Then I began to mess around with circles, trying to see which way I could turn them, how concentric I code make them, etc. If you look at my code now, you can see I grew really really fond of circles. As I figured out how to make them concentric, they began to look like ears to me, then I thought of them as mouse ears, and we have a mouse. I had a lot of trouble with understand how to turn and move objects, I think I understand, but not quite though. More on that when we get to the cheese. I also believe I have a better understanding of symmetry now because I understand my field a little better. I then wanted to make a mouth, that part took research because I wanted to figure out how to make a semi-circle. It was then that I realized that I just had to include a second argument to the circle function. But I'm still a little fuzzy there. From there, I think I spent the most time on the cheese. (I really took advantage of .dot here to make it look like the cheese had holes.) I knew going in that I wanted to "animate" them in some way, but I was struggling. At that point, I figured I could draw another object on top, with the background color to make it look like a couple of the wheels disappeared. This worked with the first wheel of cheese, but not the other. I couldn't understand how the position was changing here, and if we could talk a little bit more about position, that would really help me understand better. The same thing with text position, for me, It just keeps moving more to the right of the screen and I'm not sure why when I put in left or center. Overall, I think that this piece is a step up for me from my initial turtle works.
