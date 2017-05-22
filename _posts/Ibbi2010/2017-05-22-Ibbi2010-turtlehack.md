@@ -6,7 +6,7 @@ title: "Ibbi2010's turtle exercise"
 
 My initial experience with the trinket was almost no experience. It took me a little while to explore what a turtle could do. Once that happened, I wanted to try as many possibilities as I could. But keeping in view my limited knowledge/vocabulary about python, I wanted to polish what I had already learnt. which was mainly creating shapes by using left, right, angles with varying degrees and “forward” codes. 
 I don’t know from where  did this idea of “NY” skyline came , but as soon as it did, I knew this would be perfect for practicing the codes I knew.  The first thing I did, was to get a print out of  the skyline silhouette and from thereon pretty much experimented with the angles and distances.
-The biggest problems I faced were, basically mirroring both the sides of buildings, using (“to,go”) code to find out various locations on screen and making the triangle at the top of ESB. I struggled making the right side of ESB straight , which tilted after I made the top triangle. I made it work by adjusting the angles. This is how,
+The biggest problems I faced were, basically mirroring both the sides of buildings, using (“go.to”) code to find out various locations on screen and making the triangle at the top of ESB. I struggled making the right side of ESB straight , which tilted after I made the top triangle. I made it work by adjusting the angles. This is how,
 
 ```
 nael.forward(20)
