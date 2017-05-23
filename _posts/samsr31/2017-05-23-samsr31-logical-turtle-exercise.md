@@ -1,7 +1,7 @@
 ---
 layout: post
 author: samsr31
-title: Sam's Logical Turtle Exercise
+title: "Sam's Logical Turtle Exercise"
 ---
 
 Here is my program for the logical turtle exercise:
