@@ -1,7 +1,7 @@
 ---
 layout: post
 author: brianpugsley
-title: Brian's Logical Trinket Post
+title: "Brian's Logical Trinket Post"
 ---
 
 Here is my logical post: <iframe src="https://trinket.io/embed/python/6a939de52f" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
