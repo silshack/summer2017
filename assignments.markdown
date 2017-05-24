@@ -69,14 +69,14 @@ be completed by the date and time listed.  Class notes are for your reference of
 
 {% assign all_assignments = assignments  %}
 
-<table>
+<table role="main" aria-label="Assignments list">
 
     <th>Type</th>
     <th>Title</th>
     <th>Due Date</th>
 
 {% for post in all_assignments  %}
-    <tr>
+    <tr   aria-label='{{ post.title | escape }}'>
         <td>
             {% if post.categories contains "exercise" %}
             <span class="label round {% if post.inclass == true %}warning">In-class {% else %}success">{% endif %}Exercise</span>

@@ -5,6 +5,26 @@ title: "Let's get functional"
 category: notes
 ---
 
+# Q&A
+
+* Vocab hotseat!  Got some vocab getting you down? Or a concept that's giving you fits? Let's throw it on the board and clear things up.
+
+
+# Turtlehacks
+
+I'm halfway done but have a few examples to brag on.  They all just happen to be aliterative.
+
+Kathryn's Castle
+
+<iframe src="https://trinket.io/embed/python/50aec82a6c" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+Bennett's Bomber
+
+<iframe src="https://trinket.io/embed/python/25ffca8e3f" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+Brian's BBall
+
+<iframe src="https://trinket.io/embed/python/e9176b0be5" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 # Looking ahead
 
