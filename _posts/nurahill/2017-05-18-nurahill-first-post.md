@@ -1,6 +1,6 @@
 --- 
 layout: post
-author: <nurahill>
+author: nurahill
 title: "Nura's first post!"
 ---
 
