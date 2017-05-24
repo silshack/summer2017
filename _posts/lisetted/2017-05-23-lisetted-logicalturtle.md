@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Lisette
+author: lisetted
 title: "Lisette's logical turtle"
 ---
 
