@@ -1,8 +1,8 @@
-SILShack, Spring 2016
+SILShack, Summer 2017
 
 ![](https://travis-ci.org/silshack/summer2017.svg)
 
-This is the source code for the collaboratively edited blog/site for the Spring 2016 session of UNC INLS 560, Programming for Information Professionals.
+This is the source code for the collaboratively edited blog/site for the Summer 2017 session of UNC INLS 560, Programming for Information Professionals.
 
 ### To Students in the Class
 As the course goes on, you'll learn how to use git and Github to help make this site better and add your voice.  To start, check out the [site itself](http://silshack.github.io/summer2017).
