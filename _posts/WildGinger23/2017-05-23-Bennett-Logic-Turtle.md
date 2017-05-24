@@ -10,4 +10,4 @@ Below I've embedded my turtle
 
 
 Reflection:
-I need to work on my logic turtle, and will do so tonight.
+I am going to expand this program over memorial day weekend.
