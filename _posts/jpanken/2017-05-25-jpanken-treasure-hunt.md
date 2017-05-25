@@ -1,7 +1,7 @@
 ---
 layout: post
 author: jpanken
-title: Jaffa's Sleepy Turtle Treasure Hunt
+title: "Jaffa's Sleepy Turtle Treasure Hunt"
 ---
 
 I haven’t solved many problems, but it’s 2:30 AM and I have work tomorrow.  Hint to novice programmers: try not to accidentally delete your code multiple times.  
