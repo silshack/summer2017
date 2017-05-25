@@ -5,17 +5,10 @@ category: notes
 title: "Treasure Turtles and Clicky Craziness"
 ---
 
-# Q & A
+# Recommended Reading
 
-* Turtle **state**
-* What's the deal with `return`?
-* Where do **variables** exist?
-
-With both of these, our text doesn't explain as much as [Automate the boring stuff](https://automatetheboringstuff.com/chapter3/) does; check that
-link for more info on **return values** and **scope**.  I'll now demonstrate the basics with your help.
-
-<iframe src="https://trinket.io/embed/python/43e4877530" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
+With many concepts, our text doesn't explain as much as [Automate the boring stuff](https://automatetheboringstuff.com/chapter3/) does; check that
+link for more info on **return values** and **scope**.
 
 # Questions & Answers
 
@@ -30,13 +23,11 @@ This is where those of you who have been commenting, reflecting, and pull reques
 win friends because of it.  And if the purpose for and audience of these hasn't quite sunk in yet, reading
 other people's code is the best way for it to.
 
-Pair up:
-<iframe src="https://trinket.io/embed/python/58d9ff2b43" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
+Pair up
 
 * Review & merge your partner's PR (opening issues if there are any)
 * View their live post on the site (merge any PRs they need to do to get the post to display)
-* Fill out the [Turtle Peer Review](https://docs.google.com/forms/d/1Aypxuw5S-z8tYizuAzdjFD9ws5NHRKE4sKZCqU6JiUk/viewform) form.]
+* Fill out the [Turtle Peer Review](https://docs.google.com/forms/d/e/1FAIpQLSf_9_aCDijaw2w_OrFOE2y1kRLEfUIkpUlSScr2lCm2JwxuqQ/viewform?usp=sf_link) form.]
 * Submit
 * Discuss with your partner
 * Group up & compare notes.  Show off the partner you reviewed's code to the group

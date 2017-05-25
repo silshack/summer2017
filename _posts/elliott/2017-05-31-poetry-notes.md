@@ -1,7 +1,8 @@
 ---
+layout: post
 author: elliott
 category: notes
-title: "Pair programming a poetry slam!"
+title: "Poetry slam!"
 ---
 
 # Q & A
@@ -14,13 +15,10 @@ title: "Pair programming a poetry slam!"
 * Feel free to ask questions about todos- they're not to make you feel bad, they're to help you learn!
 * Deleting merged branches
 * Three of you are **Watching** our repo.  Unwatch if you're getting spammed.  **Make sure you're getting emails for atmentions**
-
-# Q & A
-
-* Invent your own problem solving strategies.  Wayne's decided to duplicate trinkets when he reaches major
+* Invent your own problem solving strategies.  A past student decided to duplicate trinkets when he reaches major
 funtionality milestones.  Great idea!
 * `Ctrl-/` is your friend
-* If you use something from StackExchange, it's your responsibility to know how it works.
+* If you use something from StackExchange, it's your responsibility to know how it works.  **Cite** it!
 * While True, continue and break
 
 <iframe src="https://trinket.io/embed/python/44b5d714de" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
@@ -46,6 +44,10 @@ funtionality milestones.  Great idea!
 * The Driver doesn't know where to go without the navigator.
 * Tell your partner what you need from them.  Ask them for it!
 
-# Poetry slam
+# Looking Ahead: Drawing App / Blackjack Game Due June 7
 
-[Let's do this]({{ site.baseurl }}/exercise/Slam-hack.html)
+We'll also have some code talks, clinic, and peer review.  Get started!
+
+# Poetry Slam
+
+[Let's do this]({{ site.baseurl }}/exercise/poetry-slam.html)

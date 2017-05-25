@@ -9,7 +9,7 @@ published: false
 ---
 
 Submit a well-formatted pull request with a 500+ word peer review of your partner's
-drawing app.
+drawing app and a reflection on your own experience making your app.
 
 Your peer review/reflection should contain the following sections:
 
@@ -18,6 +18,20 @@ Your peer review/reflection should contain the following sections:
 Review the requirements for the assignment.  Your partner's app should satisfy them.  Did it?
 
 What strikes you about your partner's app, its functionality, and its interface?  What did they do differently?
+
+Here are some categories to keep in mind:
+
+- App
+ - Creativity
+ - Usability
+- Code
+ - Organization
+ - Comments
+- Process
+ - Milestones
+ - Design
+ - Improvement
+
 
 # The code
 

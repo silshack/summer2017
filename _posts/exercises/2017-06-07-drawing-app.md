@@ -12,7 +12,25 @@ This is the first major development project we'll complete together. It is desig
 to encourage you to utilize the knowledge and skills you've developed, as well
 as the problem solving strategies and attitudes we've been talking about.
 
-You have 2 options.
+You have 2 options. See below.
+
+# Code talks
+
+Regardless of which option you pick, come to class prepared to discuss the following aspects of your program in a 3-4 minute Code Talk:
+
+Write up:
+
+- App
+ - Creativity
+ - Usability
+- Code
+ - Organization
+ - Comments
+- Process
+ - Milestones
+ - Design
+ - Improvement
+
 
 ___
 
