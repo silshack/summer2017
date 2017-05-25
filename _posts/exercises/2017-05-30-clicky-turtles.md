@@ -24,12 +24,21 @@ Write a turtle program that:
 
 * Has a `setup()` function that sets up your screen visually. For instance, you could
 draw green grass and blue sky using the `.fill()` method. I've created a second
+
+Option 1: Clicks
+
 * Uses the `screen.onclick()` function method to call `clicky()` function you create
 * Within clicky, do something cool.  Think outside the `.goto(x, y)` box :)
 * Within clicky, **call** one or more helper functions you've created
 * Within clicky or helper functions, use logic to change your program's behavior
 based on the turtle's x and/or y coordinates.  For instance, you could vary the
 turtle's color, speed, or call different helper functions.
+
+Option 2: Keys
+
+* Listen for at least the 4 arrow keys and one more key to control the turtle's position and one other aspect of its state.
+
+
 * Uses lists, loops, and string methods
 * Does one of the following:
   * Allows the user to make something creative interactively
@@ -48,7 +57,13 @@ often the screen updates and fix the zigzag artifacts.
 * Add your own new module (i.e. `mymodule.py`) and `import` something from it.
 You could even put your clicky function there to keep your code clean and readable.
 
+## Option 1 Starter
 
-Use this starter code unless you feel like coding from scratch:
+Use this Clicky starter code unless you feel like coding from scratch:
 
 <iframe src="https://trinket.io/embed/python/fbf0c594fd" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+
+## Option 2 Starter
+
+<iframe src="https://trinket.io/embed/python/a49153e12a" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
