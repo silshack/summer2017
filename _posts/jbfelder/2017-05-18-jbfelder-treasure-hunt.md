@@ -1,7 +1,7 @@
 ---
 layout: post
 author: jbfelder
-title: "jbfelder's Treasure Hunt Exercise
+title: "jbfelder's Treasure Hunt Exercise"
 ---
 Here is my embedded code:
 
