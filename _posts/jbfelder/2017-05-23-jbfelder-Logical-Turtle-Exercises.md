@@ -1,5 +1,5 @@
 ---
-layout: postff
+layout: post
 author: jbfelder
 title: "jbfelder's Logical Turtle Exercises"
 ---
