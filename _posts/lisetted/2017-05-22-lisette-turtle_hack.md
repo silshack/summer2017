@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Lisetted
+author: lisetted
 title: "Lisette's Turtle Exercise"
 ---
 
