@@ -37,6 +37,7 @@ turtle's color, speed, or call different helper functions.
 Option 2: Keys
 
 * Listen for at least the 4 arrow keys and one more key to control the turtle's position and one other aspect of its state.
+* Call a helper function in at least one of your click functions
 
 
 * Uses lists, loops, and string methods
