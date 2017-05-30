@@ -4,7 +4,7 @@ author: chausuble
 title: "Erin's Clicky Coloring Chicken Turtle"
 ---
 
-<iframe src="https://trinket.io/embed/python/c6b0d28f6a" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python/ef74681605" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 The exercises really exhausted me, and a bizarre glitch with Trinket made completing this pretty hard.
 
