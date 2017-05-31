@@ -1,7 +1,7 @@
 ---
 layout: post
 author: nvola
-title: "Natasha's Clickly Turtle Exercise:
+title: "Natasha's Clicky Turtle Exercise"
 ---
 
 Here is my Clicky Turtle Exercise:
