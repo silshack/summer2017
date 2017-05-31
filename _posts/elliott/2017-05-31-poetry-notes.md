@@ -23,7 +23,15 @@ title: "Poetry slam!"
 
 We'll also have some code talks, clinic, and peer review.  Assignment is posted; get started now!
 
-# Pair up & Merge up: Clicky Turtles
+# Pair up & Make a Name For Yourself
+
+Our class website runs off of a config file.  Time to tell us who you are (or want to be known as).
+
+Reminder: your public activities in this class can be pseudonymous if you want them to be.
+
+It's [here]({{ site.baseurl }}/exercise/make-a-name-for-yourself.html)
+
+# Merge up: Clicky Turtles
 
 You know the drill.
 
