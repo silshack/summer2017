@@ -2,6 +2,7 @@
 layout: post
 author: Ibbi2010
 title: "Ibbi2010's clicky turtle"
+---
 
 Reflection:
 I basically took the template code provided to us and without changing it much,tried to incorporate all the elements required by this assignment.From the very beginning I knew that I want to make somthing simple like a flower on screen click.I knew I can write a code for flower myself but I did not want to waste time on it so I got the code from trinket for my flower and defined it as my helper function in clicky function. Since its a very simple demonstration of screen click function,I did not encounter many hurdles.The only problem I did face was the artefacts which I tried to took care of with 
