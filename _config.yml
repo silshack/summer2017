@@ -96,13 +96,13 @@ authors:
     about: "Here's a little about anusha-suresh"
 
   brianpugsley:
-    name: brianpugsley
+    name: Brian Pugsley
     prof: false
-    gravatar:
-    website:
+    gravatar: 6071e79c795e839e41bbf3cf427b37b8
+    website: go.ncsu.edu/brian
     github: brianpugsley
-    twitter:
-    about: "Here's a little about brianpugsley"
+    twitter: @brian_pugsley
+    about: "Never half-ass two things. Whole-ass one thing -Ron Swanson"
 
   businessowl:
     name: businessowl
