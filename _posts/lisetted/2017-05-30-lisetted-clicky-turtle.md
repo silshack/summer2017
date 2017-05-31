@@ -16,3 +16,6 @@ I ran into a bunch of issues that I couldn't fix in this. First, I wanted to sen
 My other big problem is that I can't figure out how to move on to the next shape after one. I used an input statement, but then the user has to click enter and I was hoping to make them be able to get a new shape on the second click.
 
 Even though I didn't get to do everything I wanted to in this exercise, I feel pretty good about it. I solved a lot of problems along the way (most of which I cannot remember to write here, maybe I should take more notes while I'm working on it). If I were to start again now, I think I could probably create the guessing game I had originally wanted to do. 
+
+Update  5/31/2017
+I was able to fix a bunch of my issues (mostly simple mistakes) after I had a chance to step away from the turtle. One of my stupid mistakes was along the lines of -45<= tina.ycor() <=-145, which by definition would always be false since -45 is larger than -145! Now the clicky turtle changes colors depending on where it is in the x,y coordinates.
