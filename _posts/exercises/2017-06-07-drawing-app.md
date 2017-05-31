@@ -5,7 +5,6 @@ author:
 categories:
 - exercise
 title: "Drawing or Blackjack App Project"
-published: false
 ---
 
 This is the first major development project we'll complete together. It is designed
@@ -21,15 +20,15 @@ Regardless of which option you pick, come to class prepared to discuss the follo
 Write up:
 
 - App
- - Creativity
- - Usability
+    - Creativity
+    - Usability
 - Code
- - Organization
- - Comments
+  - Organization
+  - Comments
 - Process
- - Milestones
- - Design
- - Improvement
+  - Milestones
+  - Design
+  - Improvement
 
 
 ___

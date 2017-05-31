@@ -5,7 +5,6 @@ author:
 categories:
 - exercise
 title: "Drawing/Blackjack App Peer Review & Self-reflection"
-published: false
 ---
 
 Submit a well-formatted pull request with a 500+ word peer review of your partner's
