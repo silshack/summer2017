@@ -7,14 +7,7 @@ title: "Poetry slam!"
 
 # Q & A
 
-* While True, continue and break
-
-<iframe src="https://trinket.io/embed/python/44b5d714de" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
-* what `try`/`except` does to your program
-
-<iframe src="https://trinket.io/embed/python/4b205b50d7" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
+* [Turtletalk example](https://trinket.io/python/a49153e12a) - A first step towards accessible Turtle for all
 
 # Pair Programming Review
 
@@ -36,4 +29,4 @@ You know the drill.
 
 # Poetry Slam Due Tomorrow
 
-If there's time, we'll start in class.  [Let's do this]({{ site.baseurl }}/exercise/poetry-slam.html)
+If there's time, we'll start in class.  If you've started your Poetry Slam, let me know.  [Let's do this]({{ site.baseurl }}/exercise/poetry-slam.html)
