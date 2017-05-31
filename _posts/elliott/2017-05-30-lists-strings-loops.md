@@ -44,3 +44,7 @@ improve outcomes.  Double win!
 * program flow & breaking
 * Reminder on help
 * `None < 1`, truthiness, and other wierdness
+
+# Clicky Turtle Review
+
+Pair up, merge, and discuss!
