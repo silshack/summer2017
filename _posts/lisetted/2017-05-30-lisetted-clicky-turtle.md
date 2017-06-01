@@ -1,7 +1,7 @@
 ---
 layout: post
 author: lisetted
-title: "Lisette's Cliky Turtle"
+title: "Lisette's Clicky Turtle"
 ---
 
 trinket
