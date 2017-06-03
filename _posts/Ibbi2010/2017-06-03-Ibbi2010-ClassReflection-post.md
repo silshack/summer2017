@@ -15,7 +15,7 @@ I would also like to add that one of the major reasons ,I am still surviving the
 
 I am adding the codes for my "custom turtle",which is a Newyork Skyline. During this assignment I felt for the first time ever that I can do coding as well:)
 
-```
+```python
 import turtle
 
 nael = turtle.Turtle()
@@ -175,7 +175,7 @@ nael.write("I LOVE NEWYORK",None,"16pt bold")
 ```
 
 This other code is for one of the conditional exercises,
-```
+```python
 # This line gives prompt to enter score
 
 score=float(input("what is your score"))
