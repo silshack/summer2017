@@ -1,7 +1,7 @@
 --- 
 layout: post
 author: chausuble
-title: "Erin's Treasure and Mine Turtle"
+title: "Erin's Poetry Turtle"
 ---
 
 <iframe src="https://trinket.io/embed/python/7690615bcc" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
