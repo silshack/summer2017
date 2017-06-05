@@ -66,61 +66,61 @@ authors:
     website:
     github: tommytester
     twitter:
-    about: "Here's a little about tommytester"
+    about: "Testin' INLS 560 since 2014"
 
   abaker8:
-    name: abaker8
+    name: Amanda Baker
     prof: false
     gravatar:
     website:
     github: abaker8
     twitter:
-    about: "Here's a little about abaker8"
+    about: "Amanda is a Masters student at UNC studying Information Science. Outside of class, Amana is an avid reader, loves music, and loves outdoor sports."  
 
   alexreher:
-    name: alexreher
+    name: Alex Reher
     prof: false
-    gravatar:
+    gravatar: 
     website:
     github: alexreher
     twitter:
-    about: "Here's a little about alexreher"
+    about: "it's pronounced aboot!"
 
   anusha-suresh:
-    name: anusha-suresh
+    name: Anusha Suresh
     prof: false
     gravatar:
     website:
     github: anusha-suresh
     twitter:
-    about: "Here's a little about anusha-suresh"
+    about: "I am currently a rising junior here at UNC. I am hoping to be an INLS major, though I am currently a minor. In regards to this class, I have tried programming several times before with no success, but I am determined to learn something from this course. I love the fall, cookies and cream milkshakes(plus points if it's a malted shake), and jokes (good and bad, mostly)."
 
   brianpugsley:
-    name: brianpugsley
+    name: Brian Pugsley
     prof: false
-    gravatar:
-    website:
+    gravatar: 6071e79c795e839e41bbf3cf427b37b8
+    website: 
     github: brianpugsley
-    twitter:
-    about: "Here's a little about brianpugsley"
+    twitter: brian_pugsley
+    about: "Never half-ass two things. Whole-ass one thing -Ron Swanson"
 
   businessowl:
-    name: businessowl
+    name: Aaron Plocharczyk
     prof: false
     gravatar:
     website:
     github: businessowl
     twitter:
-    about: "Here's a little about businessowl"
+    about: "I am a senior at UNC Chapel Hill taking my last couple courses this summer."
 
   chall12:
-    name: chall12
+    name: Caroline Hall
     prof: false
     gravatar:
     website:
     github: chall12
     twitter:
-    about: "Here's a little about chall12"
+    about: "Caroline is a first year Information Science Master's Candidate. She is passionate about renewable energy and the environment. She spends the majority of her time outside of class working for Strata Solar, a national solar farm developer, and United Solar Initiative, an international solar nonprofit."
 
   chausuble:
     name: chausuble
@@ -129,34 +129,34 @@ authors:
     website:
     github: chausuble
     twitter:
-    about: "Here's a little about chausuble"
+    about: "Chausuble is sitting in a chair right now, too sleepy to write anything else."
 
   grassycheetah94:
-    name: grassycheetah94
+    name: Thomas Newlin
     prof: false
-    gravatar:
+    gravatar: da3c08dbb303b7fda7137b1d52e066d6
     website:
     github: grassycheetah94
-    twitter:
-    about: "Here's a little about grassycheetah94"
+    twitter: __NEWLIN__
+    about: "Thomas Newlin is a MPS student in the Biomedical and Health Informatics program at University of North Carolina-Chapel Hill and a graduate of Indiana University-Bloomington"
 
   Ibbi2010:
-    name: Ibbi2010
+    name: Ayesha Aslam
     prof: false
     gravatar:
     website:
     github: Ibbi2010
     twitter:
-    about: "Here's a little about Ibbi2010"
+    about: "Ayesha Aslam is a physician and a student of Master's program in Health Informatics at UNC"
 
   jbfelder:
-    name: jbfelder
+    name: Justyn Felder
     prof: false
     gravatar:
     website:
     github: jbfelder
-    twitter:
-    about: "Here's a little about jbfelder"
+    twitter: 
+    about: "Justyn is a rising Senior at UNC Chapel Hill. He wishes he was creative enough to put more in here but he isn't that creative"
 
   jmo560:
     name: jmo560
@@ -168,67 +168,67 @@ authors:
     about: "Here's a little about jmo560"
 
   jpanken:
-    name: jpanken
+    name: Jaffa
     prof: false
     gravatar:
     website:
     github: jpanken
     twitter:
-    about: "Here's a little about jpanken"
+    about: "Jaffa is a rising second-year MSIS student.  She has lived in 6 different states."  
 
   kmorbitzer:
-    name: kmorbitzer
+    name: Kathryn Morbitzer
     prof: false
     gravatar:
     website:
     github: kmorbitzer
     twitter:
-    about: "Here's a little about kmorbitzer"
+    about: "Kathryn is the lead pharmacist of the data analytics team at UNC Health Care. She is also a Masters student in the Biomedical and Health Informatics program at UNC."
 
   lisetted:
-    name: lisetted
+    name: Lisette Dunham
     prof: false
-    gravatar:
+    gravatar: 
     website:
     github: lisetted
-    twitter:
-    about: "Here's a little about lisetted"
+    twitter: ettesild
+    about: "Lisette is a Research Data Statistical Analyst at UNC's Lineberger Comprehensive Cancer Center"
 
   neatoskeeto:
-    name: neatoskeeto
+    name: Matt Zimo
     prof: false
-    gravatar:
-    website:
+    gravatar: fdf561902a98ead21ee2b5f251d44f7c
+    website: http://www.oregon-trail-blog.com/
     github: neatoskeeto
-    twitter:
-    about: "Here's a little about neatoskeeto"
+    twitter: mattzeemo
+    about: "Matt Zimo is an information science grad student at UNC Chapel Hill. Go Vols!"
 
   nurahill:
-    name: nurahill
+    name: Nura Hill
     prof: false
     gravatar:
-    website:
+    website: 
     github: nurahill
     twitter:
-    about: "Here's a little about nurahill"
+    about: "I am a student at UNC. Hoping on soon becoming a official Information Science major! :) "
 
   nvola:
-    name: nvola
+    name: Natasha Vazquez
     prof: false
     gravatar:
     website:
     github: nvola
     twitter:
-    about: "Here's a little about nvola"
+    about: "Natasha is an MS student in information science at UNC Chapel Hill and a public health analyst in the Center for Communication Science at RTI International. She likes traveling and beer-ing." 
 
   samsr31:
-    name: samsr31
+    name: Samuel Robinson
     prof: false
     gravatar:
     website:
     github: samsr31
     twitter:
-    about: "Here's a little about samsr31"
+    about: "Sam Robinson is a second-year MSLS student at UNC Chapel Hill's School of Information and Library Science."
 
   WildGinger23:
     name: WildGinger23
@@ -240,13 +240,13 @@ authors:
     about: "Here's a little about WildGinger23"
 
   zman7895:
-    name: zman7895
+    name: Zach Lund
     prof: false
     gravatar:
     website:
     github: zman7895
     twitter:
-    about: "Here's a little about zman7895"
+    about: "I am a rising senior at UNC and in the information science major. I lived most of my life just outside of Washington D.C. I love sports, music, and gambling."
 
 
 

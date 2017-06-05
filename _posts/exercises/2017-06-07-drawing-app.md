@@ -84,7 +84,7 @@ We all have to scale back scope on software projects.
 # Reflection
 
 You guessed it: the reflection is an important piece of the puzzle.  For this reflection
-the minimum lengeth I'm looking for is **250 words.** Quality is less importnat than quanity,
+the minimum lengeth I'm looking for is **250 words.** Quality is more importnat than quanity,
 of course, but this is intended to help you understand my expectations for this assignment.
 
 To be able to properly reflect as well as complete the assignment, start early!
@@ -141,7 +141,7 @@ We all have to scale back scope on software projects.
 # Reflection
 
 You guessed it: the reflection is an important piece of the puzzle.  For this reflection
-the minimum lengeth I'm looking for is **250 words.** Quality is less importnat than quanity,
+the minimum lengeth I'm looking for is **250 words.** Quality is more importnat than quanity,
 of course, but this is intended to help you understand my expectations for this assignment.
 
 To be able to properly reflect as well as complete the assignment, start early!
