@@ -1,7 +1,7 @@
 ---
 layout: post
 author: lisetted
-title: "Lisette's feflection on class so far"
+title: "Lisette's reflection on class so far"
 ---
 
 Reflection on class so far:
