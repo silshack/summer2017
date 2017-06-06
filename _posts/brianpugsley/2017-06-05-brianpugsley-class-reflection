@@ -1,0 +1,40 @@
+---
+layout: post
+author: brianpugsley
+title: "Brian's Reflection Post"
+---
+
+Throughout this class, I have really learned the importance of experimenting. Fortunately, there is nothing we are working on that will "break" anything extremely important. When I first started, I wanted to make the code perfect, every time; however, as a beginner, that was a pretty tall task. For example, I remember, in our Turtle Basics assignment, I struggled trying to get the top of the Old Well drawn. It took many interations (which, initially, was frustrating to me) but, finally, it worked! And I ended up with this code:
+
+```python
+    #top of well
+    tina.penup()
+    tina.goto(0,0)
+    tina.left(90)
+    tina.backward(100)
+    tina.left(90)
+    tina.forward(100)
+    tina.pendown()
+    tina.fill(True)
+    tina.color("light blue")
+    for x in range(180):
+      tina.forward(1.75)
+      tina.right(1)
+    tina.right(90)
+    tina.forward(200)
+    tina.fill(False)
+    tina.penup()
+    tina.setposition(0,0)
+    tina.setheading(270)
+```
+
+The was we approach programming as a problem-solving exercise is really helpful and, it would seem, the designers of Python really helped with some of the things we are able to do. Being able comment out chunks of program has been really helpful for me. For instance, I was having a lot of trouble with the poetry slam turtle because of the way I had the code written. The code was adding each sentence to my list and, when I used tina.write(), it would show each line, in each list so, it would show the first list with the first line, then the second list with the first and second line, and so on and so forth. Then, the program would just hang. So, I went from the beginning and tried to figure out what was wrong. I went line by line to figure out if I had missed something and looked at where things were connecting. I couldn't find anything so I started to comment out particular pieces of code I thought may be causing the issue. Low and behold, the first I commented out was causing the program to hang up. I don't have the old code but this is the section where my error was. I believe my issue had to do with the way the for statement was written.
+
+```python
+for lines in poetry_list:
+  tim.write(lines, font=("Arial",12,"normal"))
+  tim.backward(20)
+  yorick.backward(20)
+```
+
+So, after figuring out where the problem was, I was able to apply a solution and the program was fixed!

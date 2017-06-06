@@ -1,0 +1,12 @@
+---
+layout: post
+author: jbfelder
+title: "Justyn Felder's Poetry Slam"
+---
+
+Here is the embedded code:
+  <iframe src="https://trinket.io/embed/python/904b2dcc4f" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+  
+Reflection:
+  For Poetry Slam, I envisioned the process that I wanted to follow and completed that process step by step. First, I initalized Tina and created code for randomly assigning a color to the background. Then, I proceeded to create an empty list that would hold all strings that would be inputted by the user. I also created response list for whether or not the user responded with a capital or lower-case letter. I then created the code that would take user input, add it to the list, and then print it out. I encapsulated all of this in its own While loop that would end if the user inputted "no" or "No". I then encapsulated the code that would allow the inputted lines to be printed onscreen in its own While loop. I faced a problem where there would only be a space created after the first input, and then all other inputs would be printed on top of one another. To fix this, I moved my rotation code that pointed Tina to the bottome of the screen outside of the second While loop. It was here that I noticed that the two different While loops could be consolidated into one single While loop. With this done, this took care of the base requirements of the assignment. 
+  Having time to spare, I then decided to move onto the additional requirements of making sure all text stayed onscreen without exceeding the boundaries. Knowing that I did what text to be print to far down the screen, I created variables that tracked Tina's location and began testing how far down the input could be printed before it went offscreen. After determining how far it could go, I set a condition that would end the program if it attempted to go any further. For the amount of text that could be visible without exceeding the screen width-wise, I simply test the number of characters that could be inputted before going offscreen. Instead of ending the program, I decided to allow the user to simply retype their input to allow new strings to be created to replace to the one that was too long. To do this, I encapsulated all the code inside the While loop in a Try that would only move to the Exception if the man made error was raised. Once this was done, all basic and advance requirements were met thus finishing the assigment.
