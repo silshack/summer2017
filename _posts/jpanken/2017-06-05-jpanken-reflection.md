@@ -1,7 +1,7 @@
 ---
 layout: post
 author: jpanken
-title: "Jaffa's Reflection on Learning Python”
+title: "Jaffa's Reflection on Learning Python"
 ---
 
 Sometimes learning python has been exhilarating; sometimes it has been exhausting.  When I tried to make a filled star by hand, it was exhausting.  I changed the measurements for every angle and every line:

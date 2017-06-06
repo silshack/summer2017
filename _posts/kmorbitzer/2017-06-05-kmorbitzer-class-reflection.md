@@ -1,10 +1,10 @@
 ---
 layout: post
 author: kmorbitzer
-title: "Kathryn's class reflection:
+title: "Kathryn's class reflection"
 ---
 
-I’ve learned a lot in this class so far, but it’s been challenging.  The first lightbulb that went on for me was during our first exercise, the turtle drawing.  I drew a castle and it was quite simple, but to make it symmetrical took a lot of time.  That being the first program I have done, it made me realize how much concentration and precision is needed for programming.  
+I’ve learned a lot in this class so far, but it’s been challenging.  The first lightbulb that went on for me was during our first exercise, the turtle drawing.  I drew a castle and it was quite simple, but to make it symmetrical took a lot of time.  That being the first program I have done, it made me realize how much concentration and precision is needed for programming.
 
 ```python
 tina.speed(30)
@@ -64,4 +64,4 @@ def did_win(board_s):
 ```
 
 Being this is my first time programming, I experience confusion during every exercise, but can normally figure out a way to solve whatever I’m doing.  It’s definitely made me realize how coding is an iterative process.
-I’m still fuzzy on when to use ‘’ vs. “”.  I usually try one or the other until one works.  That also gets into my problem solving strategy.  I’m someone who just likes to keep trying things until I can get it to work. 
+I’m still fuzzy on when to use ‘’ vs. “”.  I usually try one or the other until one works.  That also gets into my problem solving strategy.  I’m someone who just likes to keep trying things until I can get it to work.
