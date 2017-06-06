@@ -3,29 +3,32 @@ layout: post
 author: nvola
 title: "Natasha's Blackjack Project"
 ---
-I started this assignment knowing that I wanted to meet the advanced requirements so I created a milestone list based around those. Here are my original milestones:
+Here is my blackjack project:
 
-	- [x]Create all 52 cards in deck in a list. This includes adding coding to deal with face cards, which all have the value of ten
-	- [x] Define function to deal two cards to the user (deal_card)
-	- [x] Card deal should be random sampling without replacement (i.e., need to use pop or delete methods to delete the randomly chosen cards from the list after they've been "dealt")
-	- [x] Define function to compute the player's score and display it (get_player_score)
-	- [x] The get player score function should handle the initial deal and the hit/stay loop
-	- [x] Define loop to continue asking user if they wish to HIT or STAY
-	- [x] If/else loop computer the user's score and comparing it against the dealer's score
-	- [x] Generate the dealer's score (get_dealer_score)
+<iframe src="https://trinket.io/embed/python/ce9d7779da?start=result" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+I started this assignment knowing that I wanted to meet the advanced requirements so I created a milestone list based around those. Here are my original milestones:
+- [x]Create all 52 cards in deck in a list. This includes adding coding to deal with face cards, which all have the value of ten
+- [x]Define function to deal two cards to the user (deal_card)
+- [x]Card deal should be random sampling without replacement (i.e., need to use pop or delete methods to delete the randomly chosen cards from the list after they've been "dealt")
+- [x]Define function to compute the player's score and display it (get_player_score)
+- [x]The get player score function should handle the initial deal and the hit/stay loop
+- [x]Define loop to continue asking user if they wish to HIT or STAY
+- [x]If/else loop compute the user's score and comparing it against the dealer's score
+- [x]Generate the dealer's score (get_dealer_score)
 
 Along the way  I realized I had forgotten some so I added:
-	- [x] Store the cards that have been dealt in their own list to enable the get_score functions
-	- [x] Ask user if they want to play again
-	- [x] Compare player score against dealer score
-	- [x] Get as close to the real rules of blackjack as possible, in terms of scoring
-	- [x] Add time.sleep() so that all the dealer's moves don't just appear all at once
-	- [x] Have user-driven start point so they don't just open the game and are given a card
+- [x]Store the cards that have been dealt in their own list to enable the get_score functions
+- [x]Ask user if they want to play again
+- [x]Compare player score against dealer score
+- [x]Get as close to the real rules of blackjack as possible, in terms of scoring
+- [x]Add time.sleep() so that all the dealer's moves don't just appear all at once
+- [x]Have user-driven start point so they don't just open the game and are given a card
 
 After viewing others' work in class I decided to add these milestones.
-	- [x] Break up the program into smaller modules
-	- [] Show the user their hand
-	- [] Incorporate the five card charlie rule
+- [x]Break up the program into smaller modules
+- [] Show the user their hand
+- [] Incorporate the five card charlie rule
 
 I started the assignment by creating a list that would serve as a deck of cards (just one deck, because that was easier than including 6). I thought about including the face cards as actual faces (e.g., A, K, Q, J), that would permit some additional nuance to the program and game play, but I didn't get around to thinking in depth about how (and where) I would convert these to numbers (probably in the get_player_score function).  This also means that I haven't integrated the ability for Ace to be 1 or 11, it's always 1. Also, I decided to code this as random sampling without replacement, this is one of  the reasons as to why I decided to store the cards for the dealer and the user in lists. 
 
