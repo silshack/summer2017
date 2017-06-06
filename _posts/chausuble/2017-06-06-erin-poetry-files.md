@@ -38,6 +38,16 @@ if save_poem == "y":
   save_the_file = open(save_file_name, "w")
   save_the_file = save_the_file.write(poem_list)
 ```
- I tried things like saving the files as .txt or .py, but no such like. Other solutions were to try making the poem lines
- into strings rather than as lists, but that wasn't successful, either. [object Object] all the way. Bah, at least it
- saves something. I'm out of time for now. Let's see what happens next.
+ETA: I reread our old exercises and realized I forgot about the .join function! So as it turns out, my solution was to change the save file like this:
+
+```
+save_poem = raw_input("Would you like to save your work? y/n")
+if save_poem == "y":
+  save_file_name = raw_input("Name your file...")
+  save_file_name = save_file_name
+  save_the_file = open(save_file_name, "w")
+  poem_strings = "\n".join(poem_list)
+  save_the_file = save_the_file.write(poem_strings)
+```
+
+So the idea I had to convert the list into strings was on the right track. I just had to remember that at the end of each list item, have a "\n" to break them into poem lines. Now I think it's working. I don't know why this idea only came once I submitted the assignment. I won't question it.
