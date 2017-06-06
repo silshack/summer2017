@@ -1,3 +1,8 @@
+---
+layout: post
+author: nvola
+title: "Natasha's Reflection Post"
+---
 I've really enjoyed learning Python. I think my previous experience with coding has helped because I already had a grasp on a lot of the concepts we've covered, but I also think I've been able to flex my problem-solving muscles on the new concepts (or new ways to use concepts I've previously encountered). There have been a few strategies that have worked for me, including stepping away from the computer and task to give my eyes and brain a rest if I'm getting frustrated, and having some water (being dehydrated makes me pretty grumpy/unable to think well). But also coding one piece at a time, rather than trying to do everything at once has been helpful because I can make sure that each individual piece is working as it should. Something that has been particularly helpful is taking it old school and writing out the problem in pen and paper, especially if math or complicated if/else statements are involved. For example, in the Conditionals Exercise Computepay, writing out the calculation for how overtime pay is calculated just wasn't working for me until I wrote it on pen and paper, as I was having some issues with not only the fact that the variables needed to be treated as floats but also because there were some parentheses (and order of operations) involved; writing it out and thinking aloud in normal speech (as opposed to code speak) really helped me to simplify the process and figure out what needed to be done. See code below. 
 
 ``` python
