@@ -1,7 +1,7 @@
 ---
 layout: post
 author: abaker8
-title: "Amandas "blackjack"
+title: "Amandas blackjack"
 ---
 Below is my trinket link!
 
