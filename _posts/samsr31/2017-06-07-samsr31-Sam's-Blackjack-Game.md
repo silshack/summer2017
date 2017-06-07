@@ -9,6 +9,12 @@ Here is my finished blackjack game project:
 
 <iframe src="https://trinket.io/embed/python3/9c2e46209e" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
+EDIT: I got the graphical version to work!  Here is that version:
+
+
+<iframe src="https://trinket.io/embed/python/04f9f1eae5" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+
 
 Reflection:
 
