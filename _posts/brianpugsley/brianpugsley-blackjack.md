@@ -17,3 +17,21 @@ While I didn't have a whole lot of major challenges when it came to getting the 
 There are still some minor glitches in this iteration of the program but I just didn't have enough time to work them out and would like to have commented a bit more.
 
 <iframe src="https://trinket.io/embed/python/62a50e8078" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+My milestones for this project were:
+
+[x] make function to deal a card
+[x] make function to deal dealer random hand
+[x] make function that helps the dealer choose whether to hit or not
+[x] make function to deal player 2 cards
+[x] make main function to run through the blackjack game
+[x] create loop in main function to determine whether to hit or stay
+[x] if the user busts, they lose
+[x] compare the dealer's hand and the player's hand to determine who wins (if neither busted)
+[x] ask if the player wants to continue playing
+[x] implement jacks, queens, and kings
+[x] write if dealer busts
+[x] created function to choose between 1 or 11 for aces.
+[ ] five card charlie
+
+
