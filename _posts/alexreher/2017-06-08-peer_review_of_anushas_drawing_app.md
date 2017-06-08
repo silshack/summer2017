@@ -1,0 +1,18 @@
+---
+layout: post
+author: alexreher
+title: : "Peer review of Anusha's Drawing App"
+---
+
+Review:
+
+Overall the code met requirements. It used a module to separate the UI and color selection logic from the main program. This made logical sense to me and helped make the code very readable. Comments made the functions easy to follow as well. The only thing I might have done is comment out or note the functions that were still under construction like the circle/square. Everything was well labeled though, so after running the program there was no problem identifying the working components. A for loop and a list were used to draw the color options in the UI. I liked how concise that made the code and tried to do the same where I could in my own work. The program works as it was intended to, allowing the user to click between points to draw lines of different colors. There's an artifact issue that occurs with clicking while a draw action is incomplete. That's a common issue though, and while a code solution exists, maybe with tracer or speed, I think a user would have zero difficulty working around it. Multiple turtles were used for the UI and another for the drawing. This was a good design choice as well.
+
+There was only one set of broad milestones, but my partner ended up accomplishing most of what was hoped for despite some frustrations and restarts. Taking on a small set of big milestones was something I did as well, designed around the requirements of the project. Ultimately, with restarts, I'm not sure how useful they were as guides without another set of milestones to compare to. My partner opted for a couple restarts, and was likely able to carry over achieved milestones like the UI from one version to the next. The interface shows buttons that were for milestones that were not implemented, these show some careful planning ahead during the coding process.
+
+Reflection:
+
+I liked my partner's visual UI design. It looked clean and the rounded swatches were a nice touch. I felt like mine looked like a placeholder that needed time and a better sense of graphic design. I think Anusha and I both could have used turtles as buttons more. The built in functionality of the on-click would help work around the one-click per screen object without making the logic too messy.
+
+I think we both approached milestones from the wrong side. We essentially just looked at project requirements and the end results we wanted to implement. Had we taken that small number of big milestones and split them up into smaller pieces, problems that were small enough to tackle and test would have given us more managable goals. Progress probably would have been quicker and more pleasant had we avoided inducing some terrible cognitive overload. Trying to work on a bunch of connected pieces at once doesn't work well, and I'm gradually starting to practice what I know. Picking up the concepts and using them is much easier when you're only focusing on one thing at a time.
+I didn't get every milestone I wanted completed, but I'm still really happy with how my project turned out. The challenges I ran into with modules and keypress arguments ended up being within my ability to figure out, and I was proud to have gotten the keypress to work the right or pythonic way. Previously I'd kept most of my problem solving in my head, and it worked, though probably not as efficiently as I could have. The scope of the assignment forced me to improve my code design and the way I approach the tasks, so I'm happy with that result too. Hopefully less mental effort gets wasted in the future as I implement the practices that work.
