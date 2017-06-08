@@ -1,0 +1,12 @@
+---
+layout: post
+author: kmorbitzer
+title: "Kathryn's Blackjack app peer review"
+---
+
+Below is my peer review:
+
+For the Blackjack App peer review, I was paired with Natasha.  Natasha did a very nice job with her app.  It immediately starts out separate from mine in that it asks the user if they are ready to play.  Natasha’s app then displays the player’s initial draw. For this, she created a deck of cards and imported random.  I like that Natasha created a deck of cards as it’s more realistic. The program then asks if the player wants to hit or stay.  If the player chooses to hit, and goes over 21, the games states that the player busted.  The game will then ask if the player wants to play again.  
+If the player chooses to stay, the app is timed out where it will reveal the dealer’s hand in sequential fashion.  One thing that I noticed about Natasha’s app is that the player and dealer can get initial hands > 21 and the program will not bust.  It looks like Natasha did not put initial constraints on her program to ensure that the initial hands do not go above 21.  
+Natasha’s app included 3 modules.  She utilized a lot of loops, including a loop that asks the player whether they want to draw more cards, loop for the dealer’s turn, in addition to the main loop.  I thought that Natasha commented well in her program.  Each comment was descriptive in what the code is being used for.  Additionally, I also like the way that Natasha set up her milestones.  She created original milestones that incorporated some of the advanced requirements.  Natasha then also described some of the components that she forgot while creating the program and had to go back and add.  Natasha also stated some of the components that she added after viewing some of the other apps in class, including incorporating the five card Charlie rule, which is very cool.  
+In reading Natasha’s milestones and reflection, it was clear to me the approach that she took to create the app.  Other than the one issue stated above, she created a great app.  In comparison to my program, Natasha added in several things that I do not have.  Like I stated above, she first asks the user whether they are ready to play blackjack.  She also created a deck of cards, which makes the game more realistic.  She also included some cool components, like the five card Charlie rule, which again makes the game more realistic.      
