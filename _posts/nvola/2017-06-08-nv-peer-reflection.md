@@ -1,0 +1,15 @@
+---
+layout: post
+author: nvola
+title: "Natasha's Review of Kathryn's App"
+---
+
+Kathyrn's app runs perfectly, without errors, and did satisfy the majority of the requirements for this project. The only thing was that she did not split up the code into modules; however, her code is very short and sweet (less than 75 lines, including lots of comments), which makes the program run well so I don't know that splitting it up would have improved the readability of the code by much. The fact that her code is so short, while still being well-commented and easy to read, was very striking to me when I first viewed her app.
+
+Kathryn's reflection clearly stated her milestones, and her reflection explained her process clearly because she started off with defining the four essential functions to meet the app requirements, and ended with asking the user if they want to play again. Essentially, she had boiled down the requirements into smaller, achievable steps so that she could satisfy the requirements. Her reflection clearly states her process in going down the milestone list to meet the requirements. She also noted how staying organized and having clear comments helped her with this assignment because it helped her identify the sources of errors; I can certainly see how both of those actions helped her in how clean her code is! She also noted some additional features she would add with more time in her reflection, which was nice to read about.
+
+
+I think Kathryn's app and process were quite similar to mine, as they're both simple text-based interfaces and we both read down the list of requirements to create the milestones, but the implementation (i.e., the code) differed quite a bit. For example, Kathryn's code was much more clean and efficient than mine, which I think is something I should strive for in my code. I could also learn from her use of functions and returns, because I still struggle with those sometimes amd I think she made really good use of them. In particular, I liked that she was able to incorporate the deal and score in one function (which I didn't quite figure out, but might have been able to if I'd spent more time mapping out what I wanted to do in terms of the "big picture" before sitting down to code). I also liked how simple her code is when comparing the player and dealer scores; I think I definitely overthought that in my code and ended up creating giant if/else statements. I didn't necessarily like (which is to say that I would've done it differently, but her way works perfectly fine) that in evaluating the player's score in the get_player_score function, if the score is greater than 21, the function returned a -1 which was then passed through the main loop to say that the player busts. 
+
+
+Being able to review Kathryn's code and compare it to mine helped me realize that I definitely should try to sit down and map things out beforehand so that my code can be as simple as possible, and showed me how much code can vary when given the same task. Overall, I think Kathryn's work was great!  
