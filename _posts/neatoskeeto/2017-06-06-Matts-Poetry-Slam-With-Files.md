@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Matt Zimo
+author: neatoskeeto
 title: "Matt Zimo's Poetry Slam with Files Exercise"
 ---
 
