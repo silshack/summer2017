@@ -1,0 +1,14 @@
+---
+layout: post
+author: jbfelder
+title: "Justyn Felder's Peer Review"
+---
+</br>
+</br>
+<strong>Peer Review:</strong>
+</br>
+From starting the program and playing with it, I see that it fulfills all of the basic and advance requirements. He implements all of the described functions, conditions, and methods as detailed in the instructions. His game successfully implements all of his code that he developed without any errors occuring. All his work is commented out with well good descriptions and put into seperate modules that he can call from other modules. The app show the user the cards that they hold and the total value of the player's hand. As soon as the user starts the app, it throws the right into the game. I believe that the app would benefit for allowing the user to decide if they wanted to start the app or not. 
+</br>
+Unlike my code where I simply had only numbers put in the deck, he did the same but assigned values to "Ace", "King", "Queen", and "Jack". One aspect of his code I like very much is where he allows the results to print the first card dealt to the dealer that has to be shown His result screen is very cluttered and could use some sort of print statement that could divide the different iterations that occur within his code or simply inputting a blank line. It would have better suited him if he had found a better way to print out the player's current hand value and each card in a variable output instead of just printing out his list. I also believe that with more time, he would have been able to find a way in which the dealer could have decided for themselves if it wanted to hit or stay, as his code shows that he was not too far off. Many of the methods he had created could have also been broken down into more methods that called on one another. In some places, he uses too much code as there are built in functions and libraries in Python that could have handled some of his work for him.
+</br>
+From his reflections I see that while he attempted to plan his app out before working on it, it seems as if he had so many goals that he wished to accomplish but had trouble implementing each as he tried to work on all of them at once. I wish he had more time to be able to work on them as well as work on the further milestones he set for himself. Also, I do not that the current milestones on his reflection accurately display the goals that he set forth for himself. I think that he had to cut out some milestones as he could not acheive them due to the time available. Personally, I do no think this is a problem but I would have enjoyed seeing the other ideas he had for himself. With his current work, I believe that with more time and planning his app could have become even better than it already is. I would not mind seeing him work on this in his free time and showing it off one more time.
