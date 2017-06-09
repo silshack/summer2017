@@ -1,0 +1,10 @@
+---
+layout: post
+author: nvola
+title: "Natasha's Dictionaries Reflection"
+---
+
+My understanding of dictionaries are that they're similar to indexes in books, where you look up a topic and the pages on which that topic is discussed are shown; this is a comparison that we made a lot during my Information Retrieval class to discuss how web pages and indexed and I think it very much works in this situation. In the case of dictionaries in Python, however, the "topic" is the key, and any associated data (e.g., page number) are the values. In this way, dictionaries are flexible because you can have multiple values associated with a key. However, the keys must be unique (just like in an index, or in a database). In that way, I think dictionaries are also a lot like databases.
+
+
+The chapter stated that: "a dictionary is like a list, but more general". I would agree with that statement and add that dictionaries are more powerful than lists (because you can associate multiple values to one key), more flexible than lists (because the dictionary itself is unordered but you can still easily retrieve values for a given key), and more exclusive than lists (many of the methods work mostly off the keys and that could be useful if you think about data and "headers", whereas with lists of lists, your first list would be your header row); although there are obviously situations in which a regular 'ole list would suffice. Also, my understanding is that you can translate many of the list methods (and, by extension, string methods) to dictionaries. I understood the chapter and the discussion in class, but I think I need more practice with dictionaries, lists, and strings because as I was trying to work ahead/along with the exercise in class, I was doing a lot of guessing and seeing what the output was, but these all seem like really useful concepts to have in your "toolbox". Learning about how to join the various values in a string separated by tabs was helpful because we'd gone over that in class before, but not while coding so seeing it in action I know now how to use it. 
