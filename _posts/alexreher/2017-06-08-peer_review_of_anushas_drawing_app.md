@@ -1,7 +1,7 @@
 ---
 layout: post
 author: alexreher
-title: : "Peer review of Anusha's Drawing App"
+title: "Peer review of Anusha's Drawing App"
 ---
 
 Review:
