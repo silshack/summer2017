@@ -1,9 +1,8 @@
-+---
- +layout: post
- +author: nurahill
- +title: "Nura's Drawing App"
- +---
-
+--- 
+layout: post
+author: nurahill
+title: "Nura's Drawing App"
+---
 
 Drawing App Milestones: 
 
