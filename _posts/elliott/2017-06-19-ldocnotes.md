@@ -8,6 +8,8 @@ layout: post
 Happy Last Day Of Classes!
 
 More to follow..
+
+{% raw %}
 <!--
 # Final Super Duper Q&A
 
@@ -65,4 +67,6 @@ the apps you've made are proof enough of that.
 
 Last one of the semester.  Make it count!  You should have most of the functionality of your project done and be working on stretch goals or
 perfecting the details.  If you're not, use your group to make sure you've got a plan to catch up!
+
 -->
+{% endraw %}
