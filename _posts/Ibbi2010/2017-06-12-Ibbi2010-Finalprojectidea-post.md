@@ -20,3 +20,23 @@ For my final project, again, I will be doing the turtle assignment as I love tur
 -graphical user interface
 - will work on the usefulness of APP
 ```
+
+Revised plan of action:
+
+Just getting to know  the difference between the milestones, assignment requirements and plan of action has made everything more clear in terms of my first steps towards the Finals.My plan of action for tonight would be to watch the game app videos .
+The initial milestone for tomorrow will be
+
+- [ ] make the " strike" screen for the game
+- [ ] make a runner and tagger turtles
+
+I have already done a little bit of graphics for the game and I think just taking  it to the point of running a game would be really helpful and encouraging for me at this stage to take it a notch further.
+I will try to incorporate all the essential requirements of the assignment, one step at a time.
+
+My milestones for the rest of the week will be
+
+- [ ] make a help screen/create user inetrface
+- [ ] create a score board
+- [ ] create a 'win' and 'lose' screen
+- [ ] introduce increasing level of difficulty
+
+
