@@ -28,3 +28,33 @@ Thinking ahead, these would be some additional milestones I'd like to or need to
 
 
 A challenge I've encountered so far is that I tried separating the code out into some modules, but they're all kind of passing variables between one another so the links between them is messy. Another thing is working with dictionaries, because I'm still a little confused about aspects of dictionaries. 
+
+My revised milestones and project plan are below:
+
+Already achieved:
+- [x] read user file (csv format)
+- [x] read headers in user file
+- [x] pull relevant variable based on user input (based on file headerss)
+- [x] create menu for 3 analysis options
+- [x] create analysis one skeleton code
+- [x] menu/user instructions
+- [x] accept user input for necessary information
+- [x] present available regions from data
+- [x] present available years from data
+ 
+To be achieved by Wednesday: 
+- [] present available variables from data
+- [ ] create analysis two skeleton code
+- [ ] create analysis three skeleton code
+ 
+To be achieved by Monday:
+- [ ] create visualization for analysis one
+  
+To be achieved by Tuesday:
+- [ ] create visualization for analysis two
+- [ ] create visualization for analysis three
+ 
+Stretch goals:
+ - [ ] implement capability to do multi-region analysis for analysis 
+ - [ ] allow percent change (analysis one) to be computed at the intervening intervals between the user's chosen end and start date
+ - [ ] incorporate regular expressions to allow flexibility on user input
