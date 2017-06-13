@@ -5,8 +5,7 @@ title: "Aaron Plocharczyk's Web Dict Post"
 ---
 
 <strong>Here's the program:</strong>
-
-    <iframe src="https://trinket.io/embed/python3/d998f2bd18" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python3/d998f2bd18" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
     
 <br/>
 <strong>Reflection:</strong>
