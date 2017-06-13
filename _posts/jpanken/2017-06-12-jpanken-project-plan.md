@@ -5,8 +5,10 @@ title: "Jaffa's Project Idea and Work Plan"
 ---
 
 
-Although I considered adapting ‘Hungry, Hungry Hippos’ for Turtle, I decided that analyzing data would be more useful for me.  I went to <https://www.kaggle.com> and downloaded a dataset of the most backed projects from Kickstarter.  I’ve been working on cleaning up the data so that I can break down the success stories by category, study the relationship between goals and amount pledged, and how much each backer pledged on average.  I will have to think of other ways to use the data, but I am just getting started.
+Although I considered adapting ‘Hungry, Hungry Hippos’ for Turtle, I decided that analyzing data would be more useful for me.  I went to <https://www.kaggle.com> and downloaded a dataset of the most backed projects from Kickstarter.  I’ve been working on cleaning up the data so that I can break down the success stories by category, study the relationship between goals and amount pledged, and how much each backer pledged on average.  I will have to think of other ways to use the data and create a user interface, but I am just getting started:
 
+
+<iframe src="https://trinket.io/embed/python3/cd87aea670" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 
 Right now, I have a piece of code that calculates and displays the percentages of each category over 0%.
