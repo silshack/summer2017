@@ -1,7 +1,7 @@
 ---
 layout: post
 author: lisetted
-title: "Lisette's Drawing App"
+title: "Lisette's Final project milestones and plan"
 ---
 
 
