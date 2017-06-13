@@ -16,10 +16,10 @@ I am passionate about this project because I wanted to do this before I even got
 
 
 Things I want in my game (Milestones)
-<ul> 4 different characters to choose from <ul>
-<ul> 21 different regions/missions/bosses to play (2 in demo) <ul>
-<ul> different outcomes depending on decisions the play makes throughout the game <ul>
-<ul> player stats that are kept throughout playing the game that can be printed on command (displayed as visual data (histogram)) <ul>
-<ul> ability for player to print out the available regions/missions to play, and have already played ones not show up as an option <ul>
-<ul> once a certain number of missions are complete the final mission becomes available <ul>
-<ul> once the final mission is completed a game over narrative comes up and the program ends <ul>
+<ul> 4 different characters to choose from </ul>
+<ul> 21 different regions/missions/bosses to play (2 in demo) </ul>
+<ul> different outcomes depending on decisions the play makes throughout the game </ul>
+<ul> player stats that are kept throughout playing the game that can be printed on command (displayed as visual data (histogram)) </ul>
+<ul> ability for player to print out the available regions/missions to play, and have already played ones not show up as an option </ul>
+<ul> once a certain number of missions are complete the final mission becomes available </ul>
+<ul> once the final mission is completed a game over narrative comes up and the program ends </ul>
