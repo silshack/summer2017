@@ -27,3 +27,31 @@ It will certainly be useful to have the program be able to analyze each file ind
 - Allow user to see <strong>correlation of word count/review length</strong> to a specific sentiment type in the file
 - Allow user to view <strong>terms that are unique</strong> to a certain file
 - Allow user to visualize results of these queries
+<br/>
+<br/>
+I've decided to shift my project from sentiment analysis to a program that actually trains a machine learning model and tests it. Here is my new work plan:
+<br/>
+By 6/14:
+- [ ] program asks user for a training file and creates a "trainingFile" object from it
+<br/>
+By 6/15:
+- [ ] program counts total number of occurrences for each term
+- [ ] program calculates correlation of terms with a sentiment
+<br/>
+By 6/19:
+- [ ] program prints and visualizes correlation and total number of occurrences for each term
+- [ ] program allows user to set a minimum threshold for total number of occurrences for each term
+- [ ] program allows user to delete particular terms
+<br/>
+By 6/22:
+- [ ] program asks user for a testing file and creates a "testingFile" object from it
+- [ ] program tests current model on the test file and saves the results locally to refer to in the next iteration of the program
+- [ ] program prints a visual representation of the test results as compared to previous tests
+- [ ] program allows user to type "help" at any time to learn about what they should do
+- [ ] program repeats
+<br/>
+Stretch Goals:
+- [ ] program allows user to save model in a comma separated format
+- [ ] program allows user to open saved models
+- [ ] program allows user to alter saved models
+- [ ] program allows user to test with saved models
