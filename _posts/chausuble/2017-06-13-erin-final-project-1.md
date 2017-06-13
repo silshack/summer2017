@@ -9,12 +9,31 @@ My project idea is for a game, and I figure it can be based on the original turt
 Milestones:
 
 Basics:
-- [ ] Character can walk around
-- [ ] Introduction can include instructions, which can also be accessed with "help" in or out of battle
-- [ ] You can examine environment at any time to get a textual description of location, or talk to at least one person in the game
-- [ ] You can enter a battle at specific locations - through tracking player X coordinate
-- [ ] In a loop, character attacks, monster attacks, until one loses (ex. while battle_is_finished == False…)
-- [ ] If you move to specific location, you advance to next area. Turtles are cleared and a new background is drawn.
+- [ ] User can move character by pressing left or right keys
+- [ ] When the character moves, their picture/.shape() changes so they look different.
+- [ ] Introduction can include instructions if user types "yes" or something similar, which can also be accessed with "help" in or out of battle
+- [ ] You can examine environment by pressing the X key at any time outside of battle to get a textual description of location, or talk to at least one person in the game
+- [ ] You can enter a battle at specific locations - through tracking player X coordinate. When the player reaches a certain X coordinate, a battle will begin.
+- [ ] In a "while" loop, the player first types an action in the battle: fire, lightning, ice, and other moves. When the player types in a spell, an animation will play, and when it is done, the monster will take damage. Then, the monster will take an action, an animation will play, and the user will take damage. The battle continues until the user or the monster's health reaches 0. Then, you will win or lose.
+- [ ] During battle, the character should not be able to move around the screen when you hit arrow keys. When you win the battle, you can move again.
+- [ ] If you move to specific location and the monster is defeated, you advance to next area. Turtles are cleared and a new background is drawn.
+- [ ] When you defeat all monsters and move into the last area, you open the treasure chest and you win the game.
+- [ ] When the whole thing is working, then start organizing things into modules.
+
+Modules:
+- [ ] Battle functions
+- [ ] Out of battle functions
+- [ ] Variables and dictionaries
+
+Variables, Lists, and Dictionaries:
+- [ ] Spellbook dictionary: keys for spell name, (possibly?) spell animation/function, the amount of damage the spell normally does (can I do a range function in a dictionary? Or just the range values?)
+- [ ] Monster dictionary: keys for monster name, health, attack names, attack damage. Perhaps a dictionary of dictionaries? Oh my!
+- [ ] Player health
+- [ ] battle_is_finished (for battle loop)
+- [ ] player_turn_is_finished (for battle loop)
+- [ ] monster_turn_is_finished (for battle loop)
+- [ ] "name".Turtle() for each character (player, 3 monsters, 1 random character, treasure chest) 
+- [ ] A list for the main character's walking animation - it can switch between two images so it looks like they're moving
 
 Art:
 - [ ] wizard
@@ -45,7 +64,8 @@ Monsters:
 - [ ] strategy for monster 3
 - [ ] optional: if implementing difficulty levels gets too hectic, have the monsters be the increasing difficulty levels
 
-Extra ideas:
+Extra ideas (elaborate on IF I complete the basics):
+- [ ] User can move character by pressing up and down keys, allowing for more exploration
 - [ ] Implement "time" functions for good pacing through battles and animations, etc
 - [ ] In environment, you can open up treasure chests that will give you more options in battle: such as alternate spells, or objects you can throw at the monster, or things like that
 - [ ] Therefore: Extra spells (probably can be found/used on higher difficulties to allow for more flexible strategies)
