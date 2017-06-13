@@ -6,7 +6,7 @@ title: "zman7895's final project initial writeup"
 
 Below is my final project so far.
 
-<iframe src="https://trinket.io/embed/python3/5774552628" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python3/157fb59ea7" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 
 I want to create a text based game that acts similar to an interactive, choose your own adventure, story game. This game will be based on the world of Ghost Recon Wildlands. Within the game I will have a full backstory to the game, characters, character stats, a map with many missions, bosses, etc. Like a choose an adventure game, at different turns in the game the player will have a couple of options to pick from, each of these options will result in different outcomes.
