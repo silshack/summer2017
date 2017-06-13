@@ -9,6 +9,25 @@ Happy Last Day Of Classes!
 
 More to follow..
 
+# Permanent Groups
+
+## Turtle Groups & Pairs
+
+Group 1
+lisetted : samsr31 : nurahill
+kmorbitzer : grassycheetah94
+Group 2
+chall12 : chausuble
+brianpugsley : Ibbi2010
+
+# Data Groups & Pairs
+Group 1
+anusha-suresh : zman7895 : jpanken
+abaker8 : alexreher
+Group 2
+jbfelder : businessowl
+neatoskeeto : nvola
+
 {% raw %}
 <!--
 # Final Super Duper Q&A
