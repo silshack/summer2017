@@ -14,3 +14,28 @@ Having worked with different APIs before, I like combining them together in diff
 <strong>Current Milestones:</strong>
 </br>
 Implement Google Maps API / Find a Weather API and implement it / Find a Text to Speech function for Python / Make certain results can be pulled and/or established from each / Combine in different way to make sure they can work together / Begin setting up so certain data can be pulled from certain areas / Set limits if needed / Input temps in a dictionary / Get counts set / Create Histogram / Give results / Allow results to be outputted with Text to Speech / Give "suggestions" / Allow "replayability
+</br>
+</br>
+<strong>Revised Milestones</strong>
+For 6/13:
+
+- [ ] Setup API and API-Key so data may be taken from a location
+- [ ] From the location inputted, show all available data that Open Weather has
+- [ ] Create user input so user is able to to decide on location while program is running
+- [ ] From the location the user inputted, show all available data that Open Weather has
+
+To Be Determined:
+
+- [ ] Show all available data from a certain date
+- [ ] Make program inform(print) out the next days forecast
+- [ ] Show all available data from a range of dates
+- [ ] From all data available, show only temperature (current, max, & min) as well as description of current sky
+- [ ] Allow the user to commit non-stop searches until they choose to quit
+- [ ] From the temperatures given for a certain day (day is the key), take the temperature (current, max, and min) and store them in either a list or dictionary (dictionary would work better)
+- [ ] From a certain range of dates (date of day is the key), take the temperature (current, max, and min) from each day and store it in a dictionary
+- [ ] Create a counter that increases when a max and min appears when they are within a certain temperature range
+- [ ] Print back out the counters for each range of temperature
+- [ ] Visualize data so that the counters are shown as a histogram
+- [ ] (Optional) Print out recommendations of what the user should wear tomorrow
+- [ ] (Optional) TBD
+
