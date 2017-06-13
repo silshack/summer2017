@@ -32,3 +32,17 @@ It is based off the final part of the CSV 1 homework.  That code works for both 
 
 
 Before I go any further, I need to decide whether to include the titles of the projects.  They certainly won’t make a neat table, but it seems that ship might have sailed anyways.  It might be nice to have a function that allows the user to search through the title for keywords.  After that, I will work to design a bunch of different ways to use the data. 
+
+
+### Milestones
+- [x] Gather data
+- [x] Clean data
+- [ ] Decide whether to use data with titles
+- [ ] Create main menu
+- [ ] Re-read chapter on regular expressions
+- [ ] Think of different data manipulations
+- [ ] Compile a dictionary
+- [ ] Create functions that use the dictionary
+- [ ] Code data functions
+- [ ] Make sure data functions pass into main
+- [ ] Figure out a good application for histograms
