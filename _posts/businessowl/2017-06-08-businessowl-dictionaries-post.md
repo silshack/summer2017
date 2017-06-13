@@ -1,3 +1,8 @@
+---
+layout: post
+author: businessowl
+title: "Aaron Plocharczyk's dictionaries post"
+---
 The following explanation of dictionaries should be sufficient to complete the first, in-class dictionary assignment.
 <br/>
 <br/>
