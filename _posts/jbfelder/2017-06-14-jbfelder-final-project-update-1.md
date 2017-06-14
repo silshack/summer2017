@@ -24,6 +24,7 @@ To Be Determined:
 - [ ] Make program inform(print) out the next days forecast
 - [ ] Show all available data from a range of dates
 - [ ] From all data available, show only temperature (current, max, & min) as well as description of current sky
+- [ ] Use text based interface such that Options can give back different types of weather information
 - [ ] Allow the user to commit non-stop searches until they choose to quit
 - [ ] From the temperatures given for a certain day (day is the key), take the temperature (current, max, and min) and store them in either a list or dictionary (dictionary would work better)
 - [ ] From a certain range of dates (date of day is the key), take the temperature (current, max, and min) from each day and store it in a dictionary
