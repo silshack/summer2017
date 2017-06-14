@@ -11,27 +11,6 @@ title: "Jaffa's First Project Update"
 Since my last post, I downloaded and cleaned different data for my final on Kickstarter.  Now, my data is divided into successful and failed projects.  When you change your data, you also change what you can do with your data.  As a result, I have been able to think of many potential directions to go in my project.  Right now, much of my program is commented out so that I can focus on making one piece work at a time.  I am in the middle of two major pieces: building a series of options menus as scaffolding for the program and creating a help dictionary.
 
 
-Currently, the first option menu code looks like this:
-```python
-while still_going:
-  print(options_1) #1st option menu
-  choice_1=input('Enter the number of your choice:')
-  if choice_1=='1':
-    fname='kickstarter_success.csv'
-    #print(options_2)
-  elif choice_1=='2':
-    fname='kickstarter_fail.csv'
-    #print(options_2)
-  if choice_1=='3':
-    get_help()
-  elif choice_1=='4':
-    still_going=False
-  else:
-    print('Please enter a valid number')
-    continue
-```
-
-
 The options menus are forcing me to make some tough choices about how much data to present and how to describe what I am offering.  To back those decisions, I decided to have an all-purpose help dictionary that will have entries with background on each dataset and types of data.  
 
 
