@@ -24,7 +24,7 @@ Brainstorm monster strategies
 Plan for the weekend:
 Do the art for the game itself
 File stuff since I hate working with them
-***If that really isn’t working, just pull the text for examine functions from a file and complete the requirement
+If that really isn’t working, just pull the text for examine functions from a file and complete the requirement
 
 Milestones:
 
