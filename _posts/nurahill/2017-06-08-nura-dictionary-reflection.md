@@ -1,10 +1,10 @@
-+---
- +layout: post
- +author: nurahill
- +title: Nura's Dictionary reflection
-+---
- +
- +
+---
+layout: post
+author: nurahill
+title: "Nura's Dictionary reflection"
+---
+ 
+ 
 
  I am so glad that today we went over dictionaries in class. I feel like i learn better by being taught this way, so I am glad that it happened!
  
