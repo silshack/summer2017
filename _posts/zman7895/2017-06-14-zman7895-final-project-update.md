@@ -19,12 +19,12 @@ My very next step will be continuing the brain storming process for additional v
 
 
 ### Milestones
-[x] the user can select from 4 different characters, or select to see a list or details of the characters (2 for the beta)
-[x] the program to include 21 different regions loaded with bosses, ecosystems, and backstories (2 for the beta)
-[x] the user can decide between different methods of approaching the mission, and select different narratives within the mission
-[x] the program can keep track of their stats, like kills, deaths, etc, and display them graphically 
-[x] the user can keep track of where they are in the game by listing the regions they haven't played vs. those they have
-[x] the program can determine when the player has completed enough of the game to access the final boss
-[x] the program displays a final narrative once the final boss is beat and the program quits
-[ ] the program can display some form of visual data to show the players location or where he has been
-[ ] the user can save their game to be able to return and pick up from where they left off
+- [x] the user can select from 4 different characters, or select to see a list or details of the characters (2 for the beta)
+- [x] the program to include 21 different regions loaded with bosses, ecosystems, and backstories (2 for the beta)
+- [x] the user can decide between different methods of approaching the mission, and select different narratives within the mission
+- [x] the program can keep track of their stats, like kills, deaths, etc, and display them graphically 
+- [x] the user can keep track of where they are in the game by listing the regions they haven't played vs. those they have
+- [x] the program can determine when the player has completed enough of the game to access the final boss
+- [x] the program displays a final narrative once the final boss is beat and the program quits
+- [ ] the program can display some form of visual data to show the players location or where he has been
+- [ ] the user can save their game to be able to return and pick up from where they left off
