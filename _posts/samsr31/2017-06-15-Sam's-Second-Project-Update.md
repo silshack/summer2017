@@ -1,5 +1,5 @@
 ---
-layout: posst
+layout: post
 author: samsr31
 title: "Sam's Second Project Update"
 ---
