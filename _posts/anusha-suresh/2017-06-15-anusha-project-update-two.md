@@ -23,3 +23,6 @@ Here is my whole list:
 - [ ] program can print information
 
 I'm not happy with where I am but hopefully with todays class and the weekend I will be in a better position.
+
+Here is the code:
+<iframe src="https://trinket.io/embed/python3/b05673d110" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
