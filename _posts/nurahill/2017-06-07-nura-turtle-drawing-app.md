@@ -4,7 +4,6 @@ author: nurahill
 title: "Nura's Drawing App"
 ---
 
-
 Drawing App Milestones: 
 
 - [ ] Make a cool Design
