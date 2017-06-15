@@ -1,7 +1,7 @@
 ---
 layout: post
 author: lisetted
-title: "Lisette's Final Project updat 2"
+title: "Lisette's Final Project update 2"
 ---
 
 
