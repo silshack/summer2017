@@ -3,12 +3,11 @@ layout: post
 author: elliott
 categories:
   - exercise
-title: "Revised Project Plan"
-published: false
+title: "Revised Project Plan Discussion"
 inclass: true
 ---
 
-Group & Pair up.  Read the below silently. Review & merge each other's pull requests.   
+Group & Pair up.  Read the below silently. Review & merge each other's pull requests.
 Once this is done, present and discuss your idea & plan with your group. Then work on your
 own to **Revise** your existing plan, **below** the plan you did for homework (i.e. in the
 same post, not a new one).  Ideally you'll be done with this before the end of class.
@@ -21,7 +20,7 @@ Keep these things in mind:
 
 # Milestones are not criteria
 
-Are your milestones accomplishable, doable things that **satisfy** the criteria in the final assignment?  They shouldn't be 
+Are your milestones accomplishable, doable things that **satisfy** the criteria in the final assignment?  They shouldn't be
 criteria, but it's OK to include criteria within them.
 
 Bad:
@@ -70,8 +69,8 @@ Stretch goals (not needed for basic functionality):
 - [ ] Implement option five (more detail TBD)
 
 
-Now, of course, this plan is incomplete because several of the **Criteria** like using 
-external files are not addressed if I execute just this plan.  In fact, reading in data 
+Now, of course, this plan is incomplete because several of the **Criteria** like using
+external files are not addressed if I execute just this plan.  In fact, reading in data
 would need to happen before some of these steps. But you get the point.
 
 Your plan is a **living document** that you will re-submit and revise every class until

@@ -8,6 +8,27 @@ layout: post
 Happy Last Day Of Classes!
 
 More to follow..
+
+# Permanent Groups
+
+## Turtle Groups & Pairs
+
+Group 1
+lisetted : samsr31 : nurahill
+kmorbitzer : grassycheetah94
+Group 2
+chall12 : chausuble
+brianpugsley : Ibbi2010
+
+# Data Groups & Pairs
+Group 1
+anusha-suresh : zman7895 : jpanken
+abaker8 : alexreher
+Group 2
+jbfelder : businessowl
+neatoskeeto : nvola
+
+{% raw %}
 <!--
 # Final Super Duper Q&A
 
@@ -65,4 +86,6 @@ the apps you've made are proof enough of that.
 
 Last one of the semester.  Make it count!  You should have most of the functionality of your project done and be working on stretch goals or
 perfecting the details.  If you're not, use your group to make sure you've got a plan to catch up!
+
 -->
+{% endraw %}
