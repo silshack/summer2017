@@ -4,7 +4,12 @@ author: businessowl
 title: "Aaron Plocharczyk's project update 1 post"
 ---
 <strong>Here's the current trinket:</strong>
+<br/>
+<strong>HOT TIP: </strong>
+The training file is imdb-train.txt, and the testing file is imdb-test.txt
+
 <iframe src="https://trinket.io/embed/python/eac50d79b3" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 <br/>
 <br/>
 <strong>Progress since last class:</strong>
