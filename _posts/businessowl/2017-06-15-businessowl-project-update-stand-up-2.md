@@ -1,7 +1,7 @@
 ---
 layout: post
 author: businessowl
-title: "Aaron Plocharczyk's project update 1 post"
+title: "Aaron Plocharczyk's project update and stand up 2 post"
 ---
 <strong>Here's the current trinket:</strong>
 <br/>
