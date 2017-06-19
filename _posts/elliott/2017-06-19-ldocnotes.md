@@ -9,32 +9,16 @@ Happy Last Day Of Classes!
 
 More to follow..
 
-{% raw %}
-<!--
-# Final Super Duper Q&A
 
-- Open source contribution: bug reports
-- **Note:** the final is due at 11:59pm Friday April 29.  It was previously listed as due at 12:00am Friday, which is 24 hours earlier :)
-- **Optional 2 day Extension**: You can choose to turn in your final by 11:59pm on Sunday May 1.  Think of this as the "hard way out".
-If you do this, you'll turn in *another* snapshot/update by the original deadline on Friday.  Also, I'll have higher expectations for
-all the details being right in your program.  Aka the perfectionists' special.
-- The above have been added to the Final description.
-- Matplotlib on Cloud 9: first, install matplotlib with `sudo apt-get install python-matplotlib` then at some point in your program
-`plot.savefig("filename.jpg")` will make a file locally.  [Run > Run With > Apache](https://docs.c9.io/docs/run-an-application) to see
-your image file.  You could also download the image and view it locally- Apache is just for your convenience.  You can assume your user
-(me) knows how to use the image file you've created.  Print "filename.jpg created" or etc. Trinket users: we did all this for you :)
-- Quick intro to package managers: `apt-get` (ubuntu linux), `pip` (python), `easy_install` (old school python), `gem` (ruby), `bundler` (ruby),
-`lein` aka Leiningen (Clojure), `npm` (node), `bower` (client side Web), `brew` (Mac OSX) etc etc.  Know and love them, but understand they're copying a
-bunch of files and changing some system settings so you don't have to.  But if something goes wrong you need to know how they work so you
-can do surgery.  Also, beware of conflicts between them!
-- For completeness, want to make sure you know about [Virtual Environments in Python](https://docs.python.org/3/library/venv.html) with `venv`.  Makes some hidden directories that let you install only what you need for each project.  Can
-be complex, but though of as the pro way to do a project. `activate` and `deactiveate` scripts 'turn on' these mini environments.
-- For science: IPython/[Jupyter notebooks](http://jupyter.org/).  Code + rich text in 'cells' that are kind of like an ubertrinket for scientific code.  Some
-people write journal articles in them.
+# Q & A
+
+* Final count: Who needs a make-up for the final presentation?
+* 30 minute office hours slots: email me to schedule a Google hangout
+* A note on using code & attribution. **See me** with questions or concerns.
 
 # Thank You!
 
-As I said on the first day of class, I love teaching, and you've been an especially great group.   Thanks for a great semester!
+As I said on the first day of class, I love teaching, and you've been a great group who's worked hard and learned a lot over a very short period.   Thanks for a great summer session!
 
 Please keep in touch on various social media.  I use Twitter the most.  Drop me a line if I can help or you've got a fun
 update to share: eah13@mac.com
@@ -67,6 +51,3 @@ the apps you've made are proof enough of that.
 
 Last one of the semester.  Make it count!  You should have most of the functionality of your project done and be working on stretch goals or
 perfecting the details.  If you're not, use your group to make sure you've got a plan to catch up!
-
--->
-{% endraw %}
