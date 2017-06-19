@@ -15,6 +15,8 @@ More to follow..
 * Final count: Who needs a make-up for the final presentation?
 * 30 minute office hours slots: email me to schedule a Google hangout
 * A note on using code & attribution. **See me** with questions or concerns.
+* Data people: Pygal + bokeh in Trinket
+* Turtle people: recursive screen.ontimer for 'autonomous' elements
 
 # Thank You!
 
