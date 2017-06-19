@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 author: jpanken
 title: "Jaffa's Third Project Update"
 ---
