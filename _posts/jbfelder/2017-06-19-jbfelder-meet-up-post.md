@@ -1,7 +1,7 @@
 ---
 layout: post
 author: jbfelder
-title: "Justyn Felder's Meet-up Post:
+title: "Justyn Felder's Meet-up Post"
 ---
 </br>
 <strong>Meet-Up Reflection:</strong>
